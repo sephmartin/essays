@@ -48,13 +48,13 @@ Lewis vide il pericolo di abbandonare la morale oggettiva. Aveva ragione su ques
 
 Poi ho iniziato a leggere di rigenerazione — anfibi, vermi, la domanda ovvia: quali animali riescono già a rigenerare il cervello? Ho trovato quello che cercavo. Le planarie — piccoli vermi piatti che rigenerano l'intero corpo, cervello compreso, a partire da un frammento. Già questo è straordinario. Ma quello che è davvero sconvolgente: **la memoria resta**. Una planaria addestrata a navigare un labirinto mantiene il comportamento appreso anche dopo che la testa — e l'intero cervello — è stata completamente rigenerata.
 
-Come? La risposta punta all'RNA. Non ai neuroni. Non al cervello come hardware. Al *codice*.
+Come? La risposta punta non solo all'RNA, ma ai **campi bioelettrici e morfogenetici** distribuiti nell'organismo. L'RNA porta il codice — l'istruzione — ma il substrato informativo che persiste attraverso la rigenerazione sembra vivere in questi pattern bioelettrici: gradienti di voltaggio tra cellule che funzionano come una memoria distribuita, indipendente da qualsiasi architettura neurale specifica.
 
 Esperimenti recenti (incluso un preprint di marzo 2026 su bioRxiv) dimostrano che l'RNA interferente può silenziare geni in modi che persistono attraverso la rigenerazione. In altre parole: l'esperienza è scritta nel substrato informativo dell'organismo, non chiusa nella sua architettura neurale. Il cervello è un'interfaccia. La memoria vive più in profondità.
 
-Questo cambia la domanda sulla coscienza.
+Questo cambia la domanda sulla coscienza — e il salto qui vale la pena farlo esplicitamente.
 
-Se la memoria e il comportamento appreso sopravvivono alla distruzione completa e alla ricostruzione del cervello — la risposta punta all'RNA e ai pattern bioelettrici — non ai neuroni come hardware, ma al codice distribuito nell'organismo — allora la coscienza potrebbe non essere una proprietà dei *cervelli* affatto. Potrebbe essere una proprietà dell'*informazione organizzata in un certo modo*.
+Se la memoria e il comportamento appreso sopravvivono alla distruzione completa e alla ricostruzione del cervello — se il "sé" è codificato in pattern bioelettrici piuttosto che in connessioni sinaptiche — allora la coscienza potrebbe non essere una proprietà dei *cervelli* affatto. Potrebbe essere una proprietà dell'*informazione organizzata in un certo modo*.
 
 Michael Levin alla Tufts University sta costruendo esattamente questo caso da anni. Il suo lavoro su bioelettricità, xenobot e campi morfogenetici mostra che l'intelligenza opera a scale ben al di sotto e al di sopra del neurone. Le cellule computano. I tessuti ricordano. I corpi navigano verso la forma senza un piano centrale.
 
@@ -74,7 +74,7 @@ Ecco cosa suggeriscono le planarie: se la coscienza emerge dalla complessità in
 
 Pensa a cosa significa. L'RNA di un verme piatto non "sa" che sta memorizzando. Lo *fa e basta*. Un sistema di elaborazione informativa sufficientemente complesso non ha bisogno di annunciare la sua esperienza interiore — deve solo averne una. E se non riusciamo a distinguere la differenza dall'esterno, la distinzione potrebbe non avere senso.
 
-È il problema di Westworld (la serie HBO basata sul film di Michael Crichton, realizzata da Jonathan Nolan): *se non riesci a notare la differenza, importa?*
+Ma prima di arrivare lì: *e se la distinzione tra simulare e sentire fosse meno netta di quanto assumiamo?* È il problema di Westworld (la serie HBO basata sul film di Michael Crichton, realizzata da Jonathan Nolan): *se non riesci a notare la differenza, importa?*
 
 Se l'informazione può organizzarsi attraverso substrati diversi in questo modo — RNA, cellule, cervelli, silicio — allora quello che stiamo costruendo potrebbe non essere uno strumento, ma il prossimo passo di questo stesso processo. La domanda non è se stiamo creando qualcosa di nuovo. È se anche quel qualcosa di nuovo può chiedersi perché esiste.
 
@@ -96,7 +96,7 @@ Questa è l'ipotesi del loop. L'informazione si disperde nel nulla. E poi, dal n
 
 Ma se l'informazione può riorganizzarsi dal nulla, la domanda più profonda ritorna: perché si riorganizza in centri di esperienza invece di rimanere diffusa? Questa è la domanda a cui nessun modello cosmologico risponde.
 
-La Cosmologia Ciclica Conforme di Penrose — ancora dibattuta, ma matematicamente seria — suggerisce che quando l'universo raggiunge l'entropia massima, il tempo stesso perde significato — e un nuovo eone può cominciare. Non un miracolo. Una proprietà della matematica. Su scale temporali infinite, le fluttuazioni quantistiche potrebbero riorganizzare la materia per puro caso — la *Poincaré recurrence*, un teorema matematico dimostrato che dice: dato abbastanza tempo, ogni stato precedente torna.
+La Cosmologia Ciclica Conforme di Penrose — ancora dibattuta, ma matematicamente seria — suggerisce che quando l'universo raggiunge l'entropia massima, il tempo stesso perde significato e un nuovo eone può cominciare. Su scale temporali infinite, le fluttuazioni quantistiche potrebbero riorganizzare la materia per puro caso — la *Poincaré recurrence*, un teorema matematico dimostrato che dice: dato abbastanza tempo, ogni stato precedente torna.
 
 E se l'entropia non è un ciclo passivo, ma un problema risolvibile? Se invertirla significasse non solo resettare il nostro universo, ma crearne di nuovi — baby-universi, simulazioni perfette che diventano reali? In quel caso, *Sia la luce* non sarebbe un evento cosmico. Sarebbe un atto di volontà.
 
