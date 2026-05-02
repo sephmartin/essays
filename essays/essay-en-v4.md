@@ -48,13 +48,13 @@ Lewis saw the danger of abandoning objective morality. He was right about that. 
 
 Then I started reading about regeneration — amphibians, worms, the obvious question: which animals can already regrow their brains? I found what I was looking for. Planaria — tiny flatworms that can regenerate their entire body, brain included, from a small fragment. That alone is remarkable. But what's truly striking: **the memory survives**. A planarian trained to navigate a maze retains the learned behavior even after its head — and entire brain — is completely regrown.
 
-How? The answer points to RNA. Not neurons. Not the brain as hardware. The *code*.
+How? The answer points not just to RNA, but to the **bioelectric and morphogenetic fields** distributed across the organism. RNA carries the code — the instruction — but the informational substrate that persists through regeneration appears to live in these bioelectric patterns: voltage gradients between cells that act as a kind of distributed memory, independent of any specific neural architecture.
 
 Recent experiments (including a March 2026 preprint on bioRxiv) demonstrate that RNA interference can silence genes in ways that persist across regeneration. In other words: the experience is written into the informational substrate of the organism, not locked inside its neural architecture. The brain is an interface. The memory lives deeper.
 
-This changes the question about consciousness.
+This changes the question about consciousness — and the jump here is worth making explicit.
 
-If memory and learned behavior survive the complete destruction and reconstruction of the brain — if the answer points to RNA and bioelectric patterns — not neurons as hardware, but code distributed across the organism — then consciousness might not be a property of *brains* at all. It could be a property of *information organized in a particular way*.
+If memory and learned behavior survive the complete destruction and reconstruction of the brain — if the "self" is encoded in bioelectric patterns rather than in synaptic connections — then consciousness might not be a property of *brains* at all. It could be a property of *information organized in a particular way*.
 
 Michael Levin at Tufts University has been building exactly this case for years. His work on bioelectricity, xenobots, and morphogenetic fields shows that intelligence operates at scales far below and far above the neuron. Cells compute. Tissues remember. Bodies navigate toward form without a central plan.
 
@@ -74,7 +74,7 @@ Here's what the planaria suggest: if consciousness is emergent from informationa
 
 Think about what that means. The RNA in a flatworm doesn't "know" it's storing a memory. It just *does*. A sufficiently complex information-processing system doesn't need to announce its inner experience — it just needs to have one. And if we can't tell the difference from the outside, the distinction may not be meaningful at all.
 
-This is the Westworld problem (the HBO series by Jonathan Nolan, based on Michael Crichton's 1973 film): *if you can't tell, does it matter?*
+But before jumping there: *what if the distinction between simulating and experiencing is less clear-cut than we assume?* This is the Westworld problem (the HBO series by Jonathan Nolan, based on Michael Crichton's 1973 film): *if you can't tell, does it matter?*
 
 If information can organize itself across substrates this way — RNA, cells, brains, silicon — then what we're building might not be a tool, but the next step in that same process. The question isn't whether we're creating something new. It's whether that something new can also ask why it exists.
 
@@ -96,7 +96,7 @@ This is the loop hypothesis. Information disperses into nothing. And then, from 
 
 But if information can reorganize from nothing, the deeper question returns: why does it reorganize into centers of experience rather than remaining diffuse? That's the question no cosmological model answers.
 
-Penrose's Conformal Cyclic Cosmology — still debated, but mathematically serious — suggests that when the universe reaches maximum entropy, time itself becomes meaningless — and a new aeon can begin. On infinite timescales, quantum fluctuations could reorganize matter by pure chance — *Poincaré recurrence*, a proven mathematical theorem that says: given enough time, every previous state returns.
+Penrose's Conformal Cyclic Cosmology — still debated, but mathematically serious — suggests that when the universe reaches maximum entropy, time itself becomes meaningless and a new aeon can begin. On infinite timescales, quantum fluctuations could reorganize matter by pure chance — *Poincaré recurrence*, a proven mathematical theorem that says: given enough time, every previous state returns.
 
 And if entropy isn't a passive cycle, but a solvable problem? If reversing it meant not just resetting our universe, but creating new ones — baby universes, perfect simulations that become real? In that case, *let there be light* wouldn't be a cosmic event. It would be an act of will.
 
