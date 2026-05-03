@@ -24,7 +24,7 @@ Years of observation, watching people, their patterns, the contradictions that k
 
 It started with C.S. Lewis. I'd seen *Freud's Last Session*, the 2023 film with Anthony Hopkins as Freud debating God with Lewis on the eve of World War II. The personalities felt real: Lewis was a former atheist who arrived at faith through reason, not emotion. That detail stayed with me.
 
-From the film I found *The Abolition of Man*, Lewis's argument that a society obsessed with "being nice" without objective virtue produces "men without chests": beings with appetites and intellect but no courage, no moral instinct, no heart. Lewis warned that rejecting inherited moral law doesn't lead to tolerance. It leads to raw material for propaganda, pleasure, and fear. It makes people easy to control.
+Then I came across *The Abolition of Man*, Lewis's argument that a society obsessed with "being nice" without objective virtue produces "men without chests": beings with appetites and intellect but no courage, no moral instinct, no heart. Lewis warned that rejecting inherited moral law doesn't lead to tolerance. It leads to raw material for propaganda, pleasure, and fear. It makes people easy to control.
 
 So here's the question that started everything: *Isn't believing in God itself a form of manipulation?*
 
