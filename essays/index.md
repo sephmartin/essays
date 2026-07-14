@@ -1,5 +1,7 @@
 # Essay index
 
+> The canonical project index is now [essays/README.md](README.md). This file remains available as a compatibility path during the structural migration.
+
 **Status key:** seed / draft / stable / archived
 **Reading speed:** approximately 200 words per minute, rounded up
 

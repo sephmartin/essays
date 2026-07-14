@@ -1,15 +1,15 @@
 # Social and profile recommendations
 
 **Status:** Prepared, not applied
-**Current direction:** Keep Trash-End Archive; introduce Computronium as an emerging horizon
+**Current direction:** Keep the public name Trash-End; introduce Computronium as an emerging horizon
 
 No account, handle, display name, bio, domain, or pinned post has been changed.
 
 ## Display name
 
-**Trash-End Archive**
+**Trash-End**
 
-This retains the origin and makes the account broad enough to publish multiple works without turning Computronium into the explanation for everything.
+This retains the origin, matches the existing domain and handle, and avoids turning the archive function into a second public name.
 
 ## Bio options
 
@@ -49,6 +49,6 @@ This retains the origin and makes the account broad enough to publish multiple w
 
 ## Recommendation
 
-Do not rename the profile to Computronium now. Reconsider only if Computronium becomes a genuinely independent publication or platform rather than one emerging work inside the archive.
+Do not rename the profile to Computronium now. Reconsider only if Computronium becomes a genuinely independent publication or platform rather than one emerging work inside Trash-End.
 
 Domain availability and social-handle availability are time-sensitive. They are not trademark clearance and should be rechecked only when an actual launch decision exists.

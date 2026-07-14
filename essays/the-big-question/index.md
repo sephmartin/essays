@@ -1,5 +1,7 @@
 # The Big Question
 
+> The canonical project entry point is now [README.md](README.md). This file remains as a compatibility path.
+
 **Status:** Versioned working essay
 **Stable release:** Not yet designated
 **Languages:** Italian and English

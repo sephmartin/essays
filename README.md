@@ -1,4 +1,4 @@
-# Trash-End Archive
+# Trash-End
 
 Trash-End is the origin, the laboratory, and the visible genealogy of an inquiry that began by trying to escape the first biological skin.
 
@@ -9,17 +9,17 @@ The early work confronts biology, ego, and anthropocentrism as filters. The late
 > Synthesis is the reconciliation.
 > Computronium is what may come after.
 
-This is a reading path, not a closed doctrine. The archive preserves reversals, discarded names, unresolved scientific questions, and the version history that made the later structure possible.
+This is a reading path, not a closed doctrine. Trash-End preserves reversals, discarded names, unresolved scientific questions, and the version history that made the later structure possible.
 
 ## Start here
 
-1. [The Big Question](essays/the-big-question/index.md) — the central essay and its full version history.
-2. [Aisthesis](essays/aisthesis/index.md) — perception, music, attraction, and the recovery of the body.
-3. [Synthesis](essays/synthesis/index.md) — the bridge between biological and artificial, roots and future.
-4. [Computronium](essays/computronium/index.md) — a future-facing horizon for matter reorganized around computation.
+1. [The Big Question](essays/the-big-question/README.md) — the central essay and its full version history.
+2. [Aisthesis](essays/aisthesis/README.md) — perception, music, attraction, and the recovery of the body.
+3. [Synthesis](essays/synthesis/README.md) — the bridge between biological and artificial, roots and future.
+4. [Computronium](essays/computronium/README.md) — a future-facing horizon for matter reorganized around computation.
 5. [Master architecture](ARCHITECTURE.md) — how the four territories connect without becoming synonyms.
 
-The [complete essay index](essays/index.md) lists language, status, reading time, and direct links for every published file.
+The [Essays README](essays/README.md) is the canonical clickable index. The older [essay index](essays/index.md) remains as a compatibility path while the repository structure is being migrated.
 
 ## What is current
 
@@ -43,7 +43,7 @@ New architecture pages use five light labels:
 
 See [Epistemic status](concepts/epistemic-status.md) for the full convention and [Epistemic notes for The Big Question](essays/the-big-question/epistemic-notes.md) for known pressure points.
 
-## Archive and provenance
+## History and provenance
 
 - [Project history](archive/project-history.md)
 - [Decision log](archive/decision-log.md)

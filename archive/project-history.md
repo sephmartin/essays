@@ -14,16 +14,21 @@ This history combines the repository's Git record with the later conversation th
 
 ## June 2026: the essay develops an internal critic
 
-- **June 15, Italian v15 GPT:** The text is rewritten to distinguish documented phenomena, contested frameworks, analogies, speculation, and pattern projection. It explicitly acknowledges the strongest objection: frameworks built for different purposes cannot be stacked without inheriting their assumptions.
+- **June 15, Italian v14:** A Claude-informed rewrite makes epistemic qualifications highly explicit. It is more defensible but too defensive and contains translation-like prose and repetition.
+- **June 15, Italian v15 GPT:** Following explicit author instructions, the text is shortened and rewritten to distinguish documented phenomena, contested frameworks, analogies, speculation, and pattern projection without interrupting every paragraph. It explicitly acknowledges the strongest objection: frameworks built for different purposes cannot be stacked without inheriting their assumptions.
 - v15 also makes AI's role ambiguous. AI can expose patterns and blind spots, but it can also produce sophisticated faces in the clouds.
+- The same session adds the possibility that AI may develop non-human axioms and expands the speculative return from ego through computation toward information while preserving the final *why*.
+- A chronobiographical cultural line and a possible Computronium cameo are discussed after v15, then deliberately deferred until the author has read the artifact. They are not already present in the tracked text.
 
 ## July 2026: the inquiry branches
 
+- **Origin clarified:** Trash-End begins in rebellion against human incoherence, hypocrisy, and biological-psychological limits. The Big Question radicalizes the meaning-of-life inquiry; later branches follow recurring informational patterns into embodied and post-biological territories.
 - **Aisthesis seeds:** Music and attraction recover the first biological skin as perception, memory, vibration, multisensory orientation, and experience.
 - **Computronium enters:** Initially considered as a possible replacement for Trash-End, it becomes a name for the future-facing horizon of matter organized for computation.
 - **Architecture clarified:** Trash-End remains origin and archive; Aisthesis becomes the return to the body; Synthesis becomes the reconciliation layer; Computronium becomes what may come after.
 - **Naming corrected:** `Computronio` becomes `Computronium`; `Synthesys` is rejected; Trash-End remains the only deliberate pun.
-- **Profile direction:** Trash-End Archive remains the recommended public container. Computronium is introduced as an emerging work, not a wholesale identity replacement.
+- **Naming direction evolves:** The earlier `Trash-End Archive` proposal gives way to a current preference for simply `Trash-End`, with archive treated as a function rather than the public name.
+- **Author-level hierarchy proposed:** `Essays` becomes the possible parent collection, with Trash-End beneath it as the foundation for The Big Question, Aisthesis, Synthesis, and Computronium.
 
 ## What the history means
 

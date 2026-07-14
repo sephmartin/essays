@@ -1,5 +1,7 @@
 # Synthesis
 
+> The canonical project entry point is now [README.md](README.md). This file remains as a compatibility path.
+
 **Status:** Seed / conceptual bridge
 **Language:** English
 **Not a master brand**

@@ -1,5 +1,7 @@
 # Aisthesis
 
+> The canonical project entry point is now [README.md](README.md). This file remains as a compatibility path.
+
 **Status:** Emerging branch
 **Language:** Italian seeds; international title
 **Current stage:** Conceptual seeds, not finalized essays
