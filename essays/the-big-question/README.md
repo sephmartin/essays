@@ -9,6 +9,7 @@
 ## Read the current draft
 
 - [Italian v15](../essay-it-v15-gpt.md) — current canonical working draft.
+- [Candidate introduction for 1.0](drafts/introduction-it-1.0-rc1.md) — removes AI-assisted authorship from the opening frame without hiding it from the provenance.
 - [English v13](../essay-en-v13.md) — latest English draft; it does not yet include the corrective work applied to Italian v15.
 - [Complete version history](../README.md#the-big-question-italian-version-history) — all preserved drafts and change notes.
 
@@ -37,7 +38,8 @@ The stable release should also expose chapters as individual files generated fro
 
 ## What remains before 1.0
 
-- Replace the AI-first opening with an introduction grounded in the author's actual pre-AI origin: frustration with human contradiction, biological and psychological limits, and the questions activated by meaning-dense cultural works.
+- Review and integrate the [candidate 1.0 introduction](drafts/introduction-it-1.0-rc1.md), which opens with Asimov and the persistence of the question rather than the AI-assisted writing process.
+- Keep the full moment of rupture in the Essays and Trash-End READMEs rather than forcing the whole project genealogy into the essay opening.
 - Keep the AI-assisted method transparent, but move it to a later method or provenance note so it does not pre-frame the reader's judgment.
 - Decide how to integrate the deferred chronobiographical line `Westworld -> 2001 / Interstellar -> Asimov -> Transcendence`.
 - Decide whether Computronium appears once as a bounded image or remains only a later branch linked from the essay.

@@ -29,6 +29,7 @@ This history combines the repository's Git record with the later conversation th
 - **Naming corrected:** `Computronio` becomes `Computronium`; `Synthesys` is rejected; Trash-End remains the only deliberate pun.
 - **Naming direction evolves:** The earlier `Trash-End Archive` proposal gives way to a current preference for simply `Trash-End`, with archive treated as a function rather than the public name.
 - **Author-level hierarchy proposed:** `Essays` becomes the possible parent collection, with Trash-End beneath it as the foundation for The Big Question, Aisthesis, Synthesis, and Computronium.
+- **July 15, introduction candidate:** The full moment of rupture is placed in the Essays and Trash-End READMEs. A separate 1.0 introduction candidate removes the AI-assisted writing process from the opening frame, begins with Asimov and the persistence of *why*, and preserves AI attribution for a later method/provenance note.
 
 ## What the history means
 

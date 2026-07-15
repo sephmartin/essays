@@ -4,6 +4,14 @@ Trash-End is the origin, the laboratory, and the visible genealogy of an inquiry
 
 The early work confronts biology, ego, and anthropocentrism as filters. The later branches do not erase that conflict. They return to the body as perception, memory, interface, and the place where patterns become experience. From there, the inquiry opens toward reconciliation and possible future substrates.
 
+## The rupture
+
+Trash-End begins as a rebellion against the human condition as it appeared from inside it: the distance between declared values and actual behaviour, the rationalizations built around ego and status, and the biological and psychological drives that repeatedly turn ideals into contradiction.
+
+This is not a claim to stand outside humanity or to be free of the same mechanisms. The rupture begins precisely with being trapped inside them and wanting to see beyond the filter. Encounters with works dense in questions and meaning intensified that refusal until it became *The Big Question*: an attempt to push the meaning of life, intelligence, and existence to their limit.
+
+The later branches emerge when the inquiry begins to recognize patterns rather than only reject constraints. Biology returns as information, perception, rhythm, attraction, memory, and interface. What began as escape becomes a map of connections—and eventually a question about what could survive beyond the first biological skin.
+
 > Trash-End is the escape.
 > Aisthesis is the return.
 > Synthesis is the reconciliation.

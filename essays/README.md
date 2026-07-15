@@ -2,6 +2,14 @@
 
 This is the navigational index for the works currently developing from Trash-End. No stable release has yet been designated.
 
+## Why Trash-End comes first
+
+Trash-End is the foundational family inside Essays. It begins with an intellectual rebellion against human incoherence, hypocrisy, and the biological and psychological filters that shape perception, morality, status, and ego. Meaning-dense films, books, and ideas did not resolve that conflict; they made its questions harder to ignore.
+
+*The Big Question* radicalizes the rupture by asking what life, intelligence, and existence mean once the human point of view is no longer treated as the natural center. Aisthesis, Synthesis, and Computronium then branch from recurring patterns discovered along that path: sensation, information, embodiment, computation, and possible continuation beyond biological form.
+
+The sequence is therefore genealogical, not merely topical. Trash-End records why the questions began; the individual works follow where they led.
+
 ## Works
 
 1. [Trash-End / The Big Question](the-big-question/README.md) — the foundational inquiry and its version history.

@@ -19,6 +19,7 @@ The labels below preserve provenance rather than making every useful formulation
 - **Decision:** The introduction should not tell the reader, before the argument begins, that the work emerged through extensive AI conversations.
 - **Rationale:** That framing can create a disqualifying prejudice before the reader encounters the ideas.
 - **Boundary:** The AI-assisted development process remains part of the provenance and method; it should be repositioned, not hidden.
+- **Implementation:** A separate [1.0 introduction candidate](../essays/the-big-question/drafts/introduction-it-1.0-rc1.md) opens with Asimov and the persistence of *why*. Historical v15 remains unchanged.
 - **Source:** Current user direction, 2026-07-14.
 
 ### Trash-End begins in rebellion against human-biological contradiction
@@ -26,6 +27,7 @@ The labels below preserve provenance rather than making every useful formulation
 - **Status:** `EXPLICIT_DECISION` as origin context; public wording not yet approved.
 - **Decision:** Trash-End begins with frustration toward human incoherence, hypocrisy, and the limits of biology and psychology. Meaning-dense cultural works intensified the questions. *The Big Question* then pushes the meaning of life toward its extreme, after which the inquiry branches through recurring informational patterns into music, attraction, biology, AI, and Computronium.
 - **Editorial boundary:** This is documented source context for the new introduction and project blurb. It is not yet final public copy.
+- **Implementation:** The rupture is now stated in the Essays and Trash-End READMEs rather than expanded inside the candidate essay introduction.
 - **Source:** Current user account, 2026-07-14.
 
 ### Keep separate names for separate works

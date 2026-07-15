@@ -10,9 +10,9 @@ The goal is not to make the essay sound academic. It is to make its changes of e
 
 ### 1. Rebuild the introduction
 
-**Status:** required; not drafted
+**Status:** candidate drafted; review and integration pending
 
-The current opening gives AI conversations too much framing power before the reader encounters the argument. The next introduction should begin from the documented human origin of Trash-End:
+The current opening gives AI conversations too much framing power before the reader encounters the argument. The full human origin of Trash-End now belongs in the parent Essays and Trash-End READMEs:
 
 - frustration with human incoherence and hypocrisy;
 - biological and psychological limits experienced as filters;
@@ -20,7 +20,9 @@ The current opening gives AI conversations too much framing power before the rea
 - the decision to push the meaning of life toward *The Big Question*;
 - the later discovery of recurring informational patterns across biology, music, attraction, AI, and cosmology.
 
-AI remains part of the method and provenance. It should not be concealed, but it can be introduced after the reader understands the question and the author's stake in it.
+The essay itself should enter more directly through Asimov, the persistence of *why*, and the risk of crossing domains. AI remains part of the method and provenance. It should not be concealed, but it can be introduced after the reader understands the question and the author's stake in it.
+
+The current candidate is [introduction-it-1.0-rc1.md](drafts/introduction-it-1.0-rc1.md). It does not alter historical v15.
 
 ### 2. Preserve epistemic clarity without defensive prose
 
