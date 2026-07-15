@@ -10,7 +10,7 @@
 
 Nel 1956 Isaac Asimov scrisse *The Last Question*, *L'ultima domanda*. Gli esseri umani chiedono a un supercomputer come invertire la morte termica dell'universo. Per trilioni di anni, attraverso ogni scala di civiltà, la risposta rimane la stessa: *dati insufficienti*. Le stelle muoiono, le galassie svaniscono, l'ultima traccia di coscienza si dissolve in un'oscurità fredda e uniforme.
 
-Poi il computer trova la risposta.
+A quel punto il computer trova la risposta.
 
 *Sia la luce.*
 
@@ -23,6 +23,17 @@ Asimov non stava anticipando una scoperta scientifica. Stava mettendo in scena u
 Il filo di questo saggio attraversa religione, antropocentrismo, biologia, memoria, intelligenza artificiale ed entropia. Non perché queste discipline formino già una teoria comune, ma perché ciascuna, da una direzione diversa, incontra lo stesso limite: continuiamo a interrogare la realtà con categorie nate dentro un corpo e una mente umani, poi scambiamo facilmente quel limite per il limite del mondo.
 
 Quello che segue è quindi una mappa speculativa, non una catena dimostrativa. Parte da scienza e filosofia reali, ma usa anche analogie e salti intuitivi. Alcune connessioni potrebbero indicare un pattern; altre potrebbero essere soltanto il volto che la mente vede tra le nuvole quando cerca abbastanza a lungo. Il punto non è convincerti che tutto sia collegato. È seguire il *perché* abbastanza a lungo da vedere quali risposte resistono quando smettiamo di pretendere che abbiano una forma umana.
+
+## Indice
+
+Il saggio è pensato come un percorso, ma non richiede una lettura lineare. Puoi iniziare dall'inizio oppure entrare direttamente nel capitolo che ti interessa di più.
+
+1. [La trappola antropocentrica](../../essay-it-v15-gpt.md#i-la-trappola-antropocentrica)
+2. [Il codice sotto la pelle](../../essay-it-v15-gpt.md#ii-il-codice-sotto-la-pelle)
+3. [Il prossimo gradino](../../essay-it-v15-gpt.md#iii-il-prossimo-gradino)
+4. [Oltre l'entropia](../../essay-it-v15-gpt.md#iv-oltre-lentropia)
+5. [Un ponte e le sue crepe](../../essay-it-v15-gpt.md#v-un-ponte-e-le-sue-crepe)
+6. [The Big Question](../../essay-it-v15-gpt.md#vi-the-big-question)
 
 ---
 
