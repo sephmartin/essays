@@ -5,7 +5,6 @@ Conceptually, this repository is a galaxy: works can branch, orbit one another, 
     Essays
     ├── README.md
     ├── TREE.md
-    ├── scripts/
     └── trash-end/
         ├── README.md
         ├── ARCHITECTURE.md

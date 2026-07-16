@@ -9,13 +9,8 @@ This directory contains the complete Italian release candidates currently under 
 
 Both candidates contain the approved human-first introduction and chapter index. v17 changes only the passages documented in the project README. Historical v15 remains untouched. The cultural chronology and possible Computronium cameo are deliberately not folded into either build yet.
 
-## Rebuild
+## Source of truth
 
-From the repository root:
+The Markdown candidates in this directory are the authoritative working texts. Temporary scripts were used to assemble the first v16 and v17 candidates, but they were removed from the public repository once direct author edits made regeneration unsafe.
 
-```sh
-ruby scripts/build_the_big_question_v16.rb
-ruby scripts/build_the_big_question_v17.rb
-```
-
-The generated file has stable chapter anchors so that the complete essay or an individual chapter can be shared from the same source.
+Git history preserves how the candidates were assembled. A future public build system should return only when one canonical source can safely generate the complete essay, individual chapters, and site output without overwriting author changes.

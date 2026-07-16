@@ -135,3 +135,9 @@ To prevent ambiguity, trash-end/archive/ was renamed to trash-end/project-record
 ## Public-tree update
 
 The public repository was renamed from `sephmartin/trash-end-archive` to `sephmartin/essays`. The rename aligns the GitHub container with the confirmed hierarchy while keeping Trash-End as the origin family inside it. The branch remains under review: neither v16 nor v17 is labeled stable, and no live-site deployment is part of this change.
+
+## Public build-script cleanup
+
+The first v16 and v17 candidates were assembled with two temporary Ruby scripts. After the author began editing v17 directly, those scripts were no longer a safe or canonical build path: rerunning the v17 script could overwrite later prose changes.
+
+The scripts were therefore removed from public Git and retained only as excluded local development history. The candidate Markdown files remain authoritative. A public generator may be introduced later if the project adopts one canonical source capable of producing the complete essay, chapter files, and site output without destructive regeneration.
