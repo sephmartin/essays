@@ -81,3 +81,15 @@ None.
 3. Create an English v15-equivalent draft.
 4. Decide whether the first stable release should be bilingual.
 5. Only then plan live-site integration and redirects.
+
+## Editorial update: v16-rc1.0
+
+On 2026-07-16, a complete Italian release candidate was added without modifying the historical v15 source:
+
+- `essays/the-big-question/current/the-big-question-it-v16-rc1.0.md` — assembled review candidate;
+- `essays/the-big-question/current/README.md` — candidate status, reading link, and rebuild instructions;
+- `scripts/build_the_big_question_v16.rb` — deterministic assembly from the approved introduction source and v15 body.
+
+The candidate adds the human-first introduction, a clickable internal index, and explicit stable chapter anchors. The body remains the v15 body except for removing the comma from the chapter title `Un ponte e le sue crepe`. The deferred cultural chronology and Computronium cameo are not included.
+
+Navigation in the root README, Essays README, The Big Question README, roadmap, and decision log now distinguishes the current release candidate from its preserved historical base. No site files, remote repository settings, tags, or external accounts were changed.

@@ -1,6 +1,6 @@
 # Essays
 
-This is the navigational index for the works currently developing from Trash-End. No stable release has yet been designated.
+This is the navigational index for the works currently developing from Trash-End. The first complete Italian 1.0 release candidate is under review; no stable release has yet been designated.
 
 ## Why Trash-End comes first
 
@@ -21,7 +21,8 @@ The sequence is therefore genealogical, not merely topical. Trash-End records wh
 
 | Work | Status | Language | Direct link |
 |---|---|---|---|
-| The Big Question v15 | current draft | Italian | [Read](essay-it-v15-gpt.md) |
+| The Big Question v16-rc1.0 | current release candidate | Italian | [Read](the-big-question/current/the-big-question-it-v16-rc1.0.md) |
+| The Big Question v15 | preserved historical base | Italian | [Read](essay-it-v15-gpt.md) |
 | The Big Question v13 | latest English draft | English | [Read](essay-en-v13.md) |
 | Aisthesis: music | seed | Italian | [Read](aisthesis/music.md) |
 | Aisthesis: attraction | seed | Italian | [Read](aisthesis/attraction.md) |
@@ -32,6 +33,7 @@ The sequence is therefore genealogical, not merely topical. Trash-End records wh
 
 | Version | Status | Direct link | Main change |
 |---|---|---|---|
+| v16-rc1.0 | current release candidate | [Read](the-big-question/current/the-big-question-it-v16-rc1.0.md) | Human-first introduction, internal index, stable chapter anchors |
 | v3 | historical draft | [Read](essay-it-v3.md) | Initial Italian structure |
 | v4 | historical draft | [Read](essay-it-v4.md) | RNA and bioelectric clarification |
 | v5 | historical draft | [Read](essay-it-v5.md) | Editorial restructuring |
@@ -43,7 +45,7 @@ The sequence is therefore genealogical, not merely topical. Trash-End records wh
 | v11 | historical draft | [Read](essay-it-v11.md) | Westworld correction |
 | v12 | historical draft | [Read](essay-it-v12.md) | DeepMind source added |
 | v13 | superseded draft | [Read](essay-it-v13.md) | Ambitious cross-framework bridge; language and epistemic defects remain |
-| v15 | current draft | [Read](essay-it-v15-gpt.md) | Full epistemic and editorial rewrite |
+| v15 | preserved historical base | [Read](essay-it-v15-gpt.md) | Full epistemic and editorial rewrite |
 
 ## The Big Question: English version history
 

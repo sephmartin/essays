@@ -6,6 +6,14 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Accepted decisions
 
+### Assemble v16-rc1.0 without rewriting historical v15
+
+- **Status:** `EXPLICIT_DECISION`
+- **Decision:** Assemble a complete Italian `v16-rc1.0` for review before any site work.
+- **Implementation:** The approved introduction and clickable chapter index are combined with the full v15 body in [the current candidate](../essays/the-big-question/current/the-big-question-it-v16-rc1.0.md). The build is reproducible, and historical v15 remains byte-for-byte unchanged.
+- **Boundary:** The deferred cultural chronology, possible Computronium cameo, final scientific audit, site integration, and stable `1.0` designation remain separate decisions.
+- **Source:** Current user direction, 2026-07-16.
+
 ### Every work has a README and clickable index
 
 - **Status:** `EXPLICIT_DECISION`
@@ -19,7 +27,7 @@ The labels below preserve provenance rather than making every useful formulation
 - **Decision:** The introduction should not tell the reader, before the argument begins, that the work emerged through extensive AI conversations.
 - **Rationale:** That framing can create a disqualifying prejudice before the reader encounters the ideas.
 - **Boundary:** The AI-assisted development process remains part of the provenance and method; it should be repositioned, not hidden.
-- **Implementation:** A separate [1.0 introduction candidate](../essays/the-big-question/drafts/introduction-it-1.0-rc1.md) opens with Asimov and the persistence of *why*. Historical v15 remains unchanged.
+- **Implementation:** The [introduction source](../essays/the-big-question/drafts/introduction-it-1.0-rc1.md) opens with Asimov and the persistence of *why* and is integrated into [v16-rc1.0](../essays/the-big-question/current/the-big-question-it-v16-rc1.0.md). Historical v15 remains unchanged.
 - **Source:** Current user direction, 2026-07-14.
 
 ### Trash-End begins in rebellion against human-biological contradiction

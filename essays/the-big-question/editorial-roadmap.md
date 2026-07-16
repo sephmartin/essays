@@ -1,7 +1,8 @@
 # The Big Question: roadmap to 1.0
 
 **Status:** editorial working plan
-**Canonical base:** `essay-it-v15-gpt.md`
+**Canonical base:** `essay-it-v15-gpt.md`, preserved unchanged
+**Current candidate:** `current/the-big-question-it-v16-rc1.0.md`
 **Stable release:** not yet designated
 
 The goal is not to make the essay sound academic. It is to make its changes of epistemic register legible while preserving momentum, personality, and the pressure of the central question.
@@ -10,7 +11,7 @@ The goal is not to make the essay sound academic. It is to make its changes of e
 
 ### 1. Rebuild the introduction
 
-**Status:** candidate drafted; review and integration pending
+**Status:** integrated in v16-rc1.0; full-candidate review pending
 
 The current opening gives AI conversations too much framing power before the reader encounters the argument. The full human origin of Trash-End now belongs in the parent Essays and Trash-End READMEs:
 
@@ -22,7 +23,7 @@ The current opening gives AI conversations too much framing power before the rea
 
 The essay itself should enter more directly through Asimov, the persistence of *why*, and the risk of crossing domains. AI remains part of the method and provenance. It should not be concealed, but it can be introduced after the reader understands the question and the author's stake in it.
 
-The current candidate is [introduction-it-1.0-rc1.md](drafts/introduction-it-1.0-rc1.md). It does not alter historical v15.
+The source candidate is [introduction-it-1.0-rc1.md](drafts/introduction-it-1.0-rc1.md). It is now assembled with the full essay in [v16-rc1.0](current/the-big-question-it-v16-rc1.0.md) without altering historical v15.
 
 ### 2. Preserve epistemic clarity without defensive prose
 
@@ -89,7 +90,7 @@ Review primary sources and wording for:
 
 1. Read the Italian candidate aloud.
 2. Remove residual translation artifacts and repeated defensive constructions.
-3. Approve the Italian text as `1.0-rc1`.
+3. Review and approve the assembled Italian `v16-rc1.0`.
 4. Verify links, notes, citations, and chapter anchors.
 5. Designate Italian `1.0` and create a Git tag.
 6. Produce an English version from the frozen Italian source, not from English v13.

@@ -31,7 +31,8 @@ The [Essays README](essays/README.md) is the canonical clickable index. The olde
 
 ## What is current
 
-- **Current Italian working draft:** [The Big Question, v15 GPT](essays/essay-it-v15-gpt.md). It is the most epistemically careful version, but it remains a draft pending scientific review.
+- **Current Italian release candidate:** [The Big Question, v16-rc1.0](essays/the-big-question/current/the-big-question-it-v16-rc1.0.md). It combines the approved new introduction and internal index with the complete v15 body for review.
+- **Preserved Italian base:** [The Big Question, v15 GPT](essays/essay-it-v15-gpt.md). It remains unchanged as the historical base of the release candidate.
 - **Latest English branch:** [The Big Question, v13](essays/essay-en-v13.md). It is a draft and has not yet received the corrective rewrite applied to Italian v15.
 - **Aisthesis:** two supplied seeds, not finished essays.
 - **Synthesis and Computronium:** architectural seeds, not finalized projects or brands.
