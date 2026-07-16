@@ -1,8 +1,12 @@
-# Change report
+# Repository migration report
 
-**Branch:** `codex/trash-end-architecture-2026-07-14`
-**Base:** `46d8f6b` (`main` and `origin/main` at audit time)
+**Record type:** historical implementation report; later sections supersede the initial additive plan
+
+**Original branch:** `codex/trash-end-architecture-2026-07-14`
+**Original base:** `46d8f6b` (`main` and `origin/main` at audit time)
 **Approach:** Additive and reversible
+
+This report is preserved as a chronological implementation record. Paths and remote states described in early sections are historical; the final public structure is documented by the root `README.md` and `TREE.md`.
 
 ## Files added
 

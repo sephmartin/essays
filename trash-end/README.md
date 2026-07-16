@@ -70,9 +70,10 @@ See [Epistemic status](concepts/epistemic-status.md) for the full convention and
 - [Project history](project-records/project-history.md)
 - [Decision log](project-records/decision-log.md)
 - [Conversation sources](project-records/conversation-sources.md)
+- [Project-records index](project-records/README.md)
 - [Concept map](concepts/concept-map.md)
 - [Glossary](concepts/glossary.md)
-- [Repository audit](../AUDIT.md)
+- [Repository audit](project-records/repository/audit.md)
 
 The raw conversation exports are recorded by checksum but are not copied into this public repository. Assistant proposals are not treated as Giuseppe Petrini's decisions unless the conversation shows explicit adoption.
 
