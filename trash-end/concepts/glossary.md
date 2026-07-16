@@ -4,7 +4,7 @@ These definitions are deliberately narrow. They keep adjacent concepts connected
 
 ## Aisthesis
 
-Perception, sensation, or the capacity for feeling. In this archive it names the recovery of the biological body as interface and medium of experience, not merely visual beauty.
+Perception, sensation, or the capacity for feeling. In this tree it names the recovery of the biological body as interface and medium of experience, not merely visual beauty.
 
 ## Anthropocentrism
 
@@ -40,7 +40,7 @@ Organization or difference that can be represented, constrained, transmitted, or
 
 ## Pattern
 
-A recurring relation or organization. A detected pattern may be real, projected, or useful despite remaining unproved. The archive treats pattern recognition as both method and risk.
+A recurring relation or organization. A detected pattern may be real, projected, or useful despite remaining unproved. The tree treats pattern recognition as both method and risk.
 
 ## Proto-computronic
 

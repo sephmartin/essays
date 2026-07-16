@@ -1,9 +1,11 @@
 # Social and profile recommendations
 
-**Status:** Prepared, not applied
-**Current direction:** Keep the public name Trash-End; introduce Computronium as an emerging horizon
+**Status:** Historical working copy, not the current public recommendation
+**Current direction:** Keep the Essays tree separate from the early fragment archive; treat Trash-End as the current origin branch, not a permanently fixed master identity
 
 No account, handle, display name, bio, domain, or pinned post has been changed.
+
+The options below are preserved because they record an earlier naming stage. Their use of “archive” is now superseded: archive refers to the separate collection of early fragments, not to the living Essays tree.
 
 ## Display name
 
@@ -47,8 +49,8 @@ This retains the origin, matches the existing domain and handle, and avoids turn
 > Synthesis: reconciliation.
 > Computronium: possible future substrate.
 
-## Recommendation
+## Historical recommendation
 
-Do not rename the profile to Computronium now. Reconsider only if Computronium becomes a genuinely independent publication or platform rather than one emerging work inside Trash-End.
+At this stage the profile should remain unchanged while the Essays tree and the long-term role of Trash-End are reviewed. Computronium remains an emerging work rather than the replacement name for the whole structure.
 
 Domain availability and social-handle availability are time-sensitive. They are not trademark clearance and should be rechecked only when an actual launch decision exists.

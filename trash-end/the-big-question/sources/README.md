@@ -27,7 +27,7 @@ These sources support the changes made in v17-rc1.1:
 ## Related source records
 
 - [June 15 v14-to-v15 development chronology](2026-06-15-v15-development.md)
-- [Repository-wide conversation manifest](../../archive/conversation-sources.md)
+- [Repository-wide conversation manifest](../../project-records/conversation-sources.md)
 - [Editorial roadmap](../editorial-roadmap.md)
 
 ## Attribution rule

@@ -31,7 +31,7 @@ The history is not cosmetic:
 6. v13 attempts to connect Assembly Theory, active inference, Constructor Theory, CCC, and Landauer, but overstates several bridges and contains clear language defects in Italian.
 7. v15 does not merely polish v13. It makes the essay bite itself: claims are marked as documented, debated, analogical, speculative, or possibly pattern projection.
 
-The archive therefore treats v15 as current but not stable. A stable release should follow a claim-by-claim source review and an English rewrite aligned with v15's epistemic discipline.
+The version history therefore treats v15 as current but not stable. A stable release should follow a claim-by-claim source review and an English rewrite aligned with v15's epistemic discipline.
 
 ## Relationship to the wider architecture
 

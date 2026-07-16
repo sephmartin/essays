@@ -8,6 +8,14 @@ This repository treats essays as versioned works: current candidates, drafts, so
 
 **Stable releases:** none designated yet
 
+See the [repository tree](TREE.md) for the operational structure and the distinction between living works, legacy versions, project records, and the separate fragment archive.
+
+## Tree, not archive
+
+This repository is the living structure of the writing: an author-level index, a current family, individual works, and the connections between them. It is closer to a tree or a galaxy than to a storage vault.
+
+The earlier web prototype titled *Archivio di Transizione* remains separate. Its four short texts are classified as fragments: they preserve an early stage of the inquiry but are not current works, release candidates, or settled positions. They are not included here as essays.
+
 ## Why Trash-End comes first
 
 Trash-End is the foundational family inside Essays. It begins with an intellectual rebellion against human incoherence, hypocrisy, and the biological and psychological filters that shape perception, morality, status, and ego. Meaning-dense films, books, and ideas did not resolve that conflict; they made its questions harder to ignore.

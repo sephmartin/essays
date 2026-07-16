@@ -29,6 +29,12 @@ This is a reading path, not a closed doctrine. Trash-End preserves reversals, di
 
 The parent [Essays README](../README.md) is the canonical repository index. Trash-End remains the working family for these works, while its long-term role as the permanent center remains open.
 
+## Boundary with the fragment archive
+
+Trash-End is the origin branch inside the living [Essays tree](../TREE.md). It is not the same object as the early *Archivio di Transizione* website.
+
+That separate archive preserves four early-stage notes as fragments. They show where some language and tensions first appeared, but they do not define the current architecture, the present essay candidates, or the conclusions of the individual works. Project chronology and provenance for this tree live under [project records](project-records/project-history.md); previous versions of The Big Question live under [legacy](the-big-question/legacy/README.md).
+
 ## What is current
 
 - **Current Italian comparison candidate:** [The Big Question, v17-rc1.1](the-big-question/current/the-big-question-it-v17-rc1.1.md).
@@ -55,9 +61,9 @@ See [Epistemic status](concepts/epistemic-status.md) for the full convention and
 
 ## History and provenance
 
-- [Project history](archive/project-history.md)
-- [Decision log](archive/decision-log.md)
-- [Conversation sources](archive/conversation-sources.md)
+- [Project history](project-records/project-history.md)
+- [Decision log](project-records/decision-log.md)
+- [Conversation sources](project-records/conversation-sources.md)
 - [Concept map](concepts/concept-map.md)
 - [Glossary](concepts/glossary.md)
 - [Repository audit](../AUDIT.md)

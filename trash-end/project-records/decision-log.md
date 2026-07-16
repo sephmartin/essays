@@ -6,6 +6,14 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Accepted decisions
 
+### Separate the living tree from the fragment archive
+
+- **Status:** EXPLICIT_DECISION
+- **Decision:** The Essays repository is the living tree or galaxy of works. The earlier Archivio di Transizione website is the true historical archive and its four short texts are classified as fragments.
+- **Boundary:** Fragments preserve early stages but are not current works, release candidates, or settled positions.
+- **Implementation:** The internal provenance directory is named project-records rather than archive; public README files state the separation; the fragment repository receives its own README.
+- **Source:** Current user direction, 2026-07-16.
+
 ### Use Essays → Trash-End → works as the current hierarchy
 
 - **Status:** EXPLICIT_DECISION
@@ -65,7 +73,7 @@ The labels below preserve provenance rather than making every useful formulation
 - **Status:** `EXPLICIT_DECISION` plus later `APPROVED_PROPOSAL` for profile direction.
 - **Decision:** Trash-End is where the work begins: the psychology of transcendence, rejection of the first biological skin, and later recovery of its role.
 - **Rationale:** Renaming the whole project after its horizon would erase the visible genealogy.
-- **Naming update:** The earlier approved proposal `Trash-End Archive` remains part of the history, but the current preference is to use simply `Trash-End` and let version history perform the archive function.
+- **Naming update:** The earlier approved proposal `Trash-End Archive` remains part of the history. The current structure separates the living Essays tree from the historical fragment archive.
 - **Sources:** User message `538fd71e-8b06-4308-970a-e3561e10ad6a`; later current-thread preference, 2026-07-14.
 
 ### Use Aisthesis
@@ -130,7 +138,7 @@ The labels below preserve provenance rather than making every useful formulation
 
 | Option | Status | Why it was discarded |
 |---|---|---|
-| Rename the whole project Computronium | `DISCARDED_OPTION` | Earlier assistant proposal; later architecture retains Trash-End as archive and Computronium as horizon |
+| Rename the whole project Computronium | `DISCARDED_OPTION` | Earlier assistant proposal; later architecture retains Trash-End as the origin branch and Computronium as horizon |
 | Computronio as the canonical name | `DISCARDED_OPTION` | Explicitly replaced by original English `Computronium` |
 | Synthesys | `DISCARDED_OPTION` | Pun inaudible in speech, needs explanation, collides with AI/technology uses, and creates naming theater |
 | Aisthesys | `DISCARDED_OPTION` | Prematurely fuses branches and looks like a spelling error |
@@ -140,7 +148,6 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Open questions
 
-- **Repository name:** The local tree now follows Essays → Trash-End → works, but the remote repository is still named `trash-end-archive`. A remote rename can wait until the hierarchy survives review.
 - **Status of The Big Question:** Which version, after scientific review, becomes the first stable release?
 - **English current text:** Should v15 be translated/recomposed into English, or should v13 receive an independent corrective rewrite?
 - **Scientific review:** Which planarian-memory, Assembly Theory, active-inference, Constructor Theory, CCC, Landauer, and machine-consciousness claims survive expert review?

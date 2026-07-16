@@ -2,9 +2,15 @@
 
 **Status:** Working reference
 **Language:** English
-**Updated:** 2026-07-14
+**Updated:** 2026-07-16
 
 This document explains the current relationship among Trash-End, The Big Question, Aisthesis, Synthesis, and Computronium. It is an editorial map, not a metaphysical constitution.
+
+## Galaxy and archive
+
+The living structure is best understood as a galaxy and implemented as a tree. Works can branch and reconnect, but each artifact still needs one canonical location.
+
+The separate *Archivio di Transizione* prototype performs a different role. Its four texts are historical fragments from an early stage. They are evidence of development, not nodes that should be mistaken for current works or release candidates.
 
 ## Intended hierarchy
 
@@ -21,7 +27,7 @@ Essays
 
 `Essays` is navigation across the author's writing. `Trash-End` is the foundation and genealogy of this particular family of works. “Archive” remains a function performed by version history and source records, not the public name of the whole project.
 
-The local checkout and GitHub repository have not yet been renamed or migrated to this final hierarchy.
+The local checkout implements this hierarchy, and the public repository is now named `sephmartin/essays`. Trash-End remains its first family of works rather than the name of the whole repository.
 
 ## The movement
 
@@ -95,4 +101,4 @@ The maximum of computation may not be the maximum of experience. That tension ke
 
 Readers who want the genealogy should begin with [The Big Question](the-big-question/README.md) and inspect at least one early version before the current Italian draft. Readers interested in the recovered body can enter through [Aisthesis](aisthesis/README.md). Readers interested in the bridge should continue to [Synthesis](synthesis/README.md). Readers interested in future substrates should end, provisionally, at [Computronium](computronium/README.md).
 
-The archive does not end there. Each branch is expected to send questions back into the others.
+The tree does not end there. Each branch is expected to send questions back into the others.

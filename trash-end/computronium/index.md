@@ -9,7 +9,7 @@
 
 Computronium is the horizon where matter is deliberately reorganized for computation. The project keeps the original international English term rather than the Italianized *computronio*.
 
-It is not the new name of the archive. Trash-End remains the origin and current container. Computronium is an emerging work: a way to ask what may happen after biological intelligence begins designing other substrates for information processing.
+It is not the new name of the tree. Trash-End remains the current origin branch. Computronium is an emerging work: a way to ask what may happen after biological intelligence begins designing other substrates for information processing.
 
 ## Established term
 
@@ -71,6 +71,6 @@ These are open questions. The maximum of computation may not be the maximum of s
 
 ## Why it remains a horizon
 
-Computronium is useful precisely because it is not yet the house. Naming the whole archive after its future endpoint would flatten the recovered body, the history of contradiction, and the distinction between present evidence and speculative continuation.
+Computronium is useful precisely because it is not yet the house. Naming the whole tree after its future endpoint would flatten the recovered body, the history of contradiction, and the distinction between present evidence and speculative continuation.
 
 Trash-End shows where the thought came from. Aisthesis shows what the first escape overlooked. Synthesis holds the conflict open. Computronium tests what may come after.

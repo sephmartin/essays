@@ -25,11 +25,13 @@ This history combines the repository's Git record with the later conversation th
 - **Origin clarified:** Trash-End begins in rebellion against human incoherence, hypocrisy, and biological-psychological limits. The Big Question radicalizes the meaning-of-life inquiry; later branches follow recurring informational patterns into embodied and post-biological territories.
 - **Aisthesis seeds:** Music and attraction recover the first biological skin as perception, memory, vibration, multisensory orientation, and experience.
 - **Computronium enters:** Initially considered as a possible replacement for Trash-End, it becomes a name for the future-facing horizon of matter organized for computation.
-- **Architecture clarified:** Trash-End remains origin and archive; Aisthesis becomes the return to the body; Synthesis becomes the reconciliation layer; Computronium becomes what may come after.
+- **Architecture clarified:** Trash-End remains the origin branch; Aisthesis becomes the return to the body; Synthesis becomes the reconciliation layer; Computronium becomes what may come after.
 - **Naming corrected:** `Computronio` becomes `Computronium`; `Synthesys` is rejected; Trash-End remains the only deliberate pun.
-- **Naming direction evolves:** The earlier `Trash-End Archive` proposal gives way to a current preference for simply `Trash-End`, with archive treated as a function rather than the public name.
-- **Author-level hierarchy proposed:** `Essays` becomes the possible parent collection, with Trash-End beneath it as the foundation for The Big Question, Aisthesis, Synthesis, and Computronium.
+- **Naming direction evolves:** The earlier Trash-End Archive proposal gives way to a separation between the living Essays tree and the historical fragment archive.
+- **Author-level hierarchy confirmed:** Essays becomes the parent collection, with Trash-End beneath it as the current origin for The Big Question, Aisthesis, Synthesis, and Computronium.
 - **July 15, introduction candidate:** The full moment of rupture is placed in the Essays and Trash-End READMEs. A separate 1.0 introduction candidate removes the AI-assisted writing process from the opening frame, begins with Asimov and the persistence of *why*, and preserves AI attribution for a later method/provenance note.
+- **July 16, fragment boundary:** The four short texts in the early Archivio di Transizione site are classified as fragments and kept separate from the living work tree.
+- **July 16, v17-rc1.1:** Planarian memory, Transformer architecture, Landauer/CCC, and the final worm/universe passage receive a targeted epistemic correction while v16 remains available for comparison.
 
 ## What the history means
 
@@ -41,4 +43,4 @@ The version sequence documents a real methodological change:
 4. classify its epistemic status;
 5. let new branches emerge without rewriting the origin.
 
-The archive is therefore not permanently unfinished by accident. It is versioned on purpose. The next stabilizing move is not to delete history; it is to designate a reviewed release while keeping the path that led to it.
+The tree is not permanently unfinished by accident. It is versioned on purpose. The next stabilizing move is not to delete history; it is to designate a reviewed release while keeping both legacy versions and early fragments legible in their different roles.

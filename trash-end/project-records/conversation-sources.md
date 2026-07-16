@@ -40,4 +40,4 @@ The June 15 v15-development JSON contains 26 top-level messages spanning 16:23:4
 - Assistant language is a proposal until the user adopts it.
 - A later user correction overrides an earlier assistant interpretation.
 - The supplied Aisthesis seeds contain curated brainstorming formulations, but the earlier voice exchange from which they were distilled is not included. Their strongest lines are therefore treated as project formulations developed in dialogue.
-- The archive does not infer endorsement from scientists who received, read, liked, ignored, or did not answer material.
+- The project records do not infer endorsement from scientists who received, read, liked, ignored, or did not answer material.

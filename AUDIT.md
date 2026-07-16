@@ -6,6 +6,8 @@
 - Trash-End is a child family under trash-end/, explicitly treated as the working center rather than a permanent naming lock.
 - The Big Question, Aisthesis, Synthesis, and Computronium each have their own README.
 - The Big Question separates current candidates, drafts, sources, and legacy Italian/English versions.
+- TREE.md distinguishes the living galaxy from the separate early fragment archive.
+- Internal chronology and provenance live under project-records/, avoiding a collision with the fragment archive.
 - v17-rc1.1 and v16-rc1.0 are both available for direct comparison.
 - Historical v15 remains byte-for-byte unchanged.
 - The previous flat essay paths were deliberately migrated only after the user confirmed Essays → Trash-End → works. Git history preserves the old locations.

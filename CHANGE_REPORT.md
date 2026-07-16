@@ -54,7 +54,7 @@ None.
 ## Source integration
 
 - The two supplied Aisthesis seed files were copied verbatim into the repository and framed as seeds, not stable essays.
-- The JSON and Markdown conversation exports were not copied into the public repository. Their filenames, roles, checksums, and high-authority message IDs are recorded in `archive/conversation-sources.md`.
+- The JSON and Markdown conversation exports were not copied into the public repository. Their filenames, roles, checksums, and high-authority message IDs are recorded in `trash-end/project-records/conversation-sources.md`.
 - Assistant-generated language is marked as proposal or co-developed where relevant.
 
 ## Assumptions
@@ -117,4 +117,17 @@ After explicit confirmation on 2026-07-16, the local branch was migrated from th
 
 All historical Italian and English files now live under trash-end/the-big-question/legacy/. No version was deleted or rewritten. The earlier “files moved or deleted: none” statement describes the first additive architecture pass and is superseded by this later, user-approved migration.
 
-The remote repository remains named trash-end-archive for now. No push, repository rename, tag, site deploy, domain change, or social-profile change was performed.
+At that stage, the remote repository still had the temporary name `trash-end-archive`; this statement is superseded by the public-tree update below. No tag, site deploy, domain change, or social-profile change was performed.
+
+## Archive boundary update
+
+The project now distinguishes two different historical functions:
+
+- the living Essays tree preserves version history through current, drafts, sources, legacy, and project records;
+- the separate Archivio di Transizione prototype preserves four early texts classified as fragments.
+
+To prevent ambiguity, trash-end/archive/ was renamed to trash-end/project-records/. TREE.md documents the public hierarchy and the fragment boundary. The fragment repository received its own README; its pre-existing HTML and CSS modifications were not included or altered.
+
+## Public-tree update
+
+The public repository was renamed from `sephmartin/trash-end-archive` to `sephmartin/essays`. The rename aligns the GitHub container with the confirmed hierarchy while keeping Trash-End as the origin family inside it. The branch remains under review: neither v16 nor v17 is labeled stable, and no live-site deployment is part of this change.
