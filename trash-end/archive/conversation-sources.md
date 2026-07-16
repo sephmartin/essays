@@ -18,7 +18,7 @@ The raw conversation is source material, not public repository content. This fil
 
 The raw JSON contains 20 exported top-level messages in the supplied branch, spanning 2026-07-13 19:36:06 through 2026-07-14 18:10:28. It includes one image attachment reference. The image itself was not present in the handoff, so no visual claim is derived directly from it.
 
-The June 15 v15-development JSON contains 26 top-level messages spanning 16:23:46 through 17:30:46. It identifies `essay-it-v14.md` as a temporary Markdown attachment. The attachment and resulting v15 were both recovered locally and read in full. See the [distilled development record](../essays/the-big-question/sources/2026-06-15-v15-development.md).
+The June 15 v15-development JSON contains 26 top-level messages spanning 16:23:46 through 17:30:46. It identifies `essay-it-v14.md` as a temporary Markdown attachment. The attachment and resulting v15 were both recovered locally and read in full. See the [distilled development record](../the-big-question/sources/2026-06-15-v15-development.md).
 
 ## High-authority message anchors
 

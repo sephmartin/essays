@@ -2,7 +2,7 @@
 
 > The canonical project entry point is now [README.md](README.md). This file remains as a compatibility path.
 
-**Status:** Versioned working essay
+**Status:** v17-rc1.1 and v16-rc1.0 under comparison
 **Stable release:** Not yet designated
 **Languages:** Italian and English
 
@@ -12,9 +12,11 @@ The essay is not one file pretending to be timeless. Its argument changes visibl
 
 ## Recommended entry points
 
-- [Italian v15 GPT](../essay-it-v15-gpt.md) — current working draft and the most explicit about its own uncertainty.
-- [English v13](../essay-en-v13.md) — latest English draft, but it still contains claims that the Italian v15 rewrite later qualified.
-- [Complete version index](../index.md) — every file, status, reading time, and change note.
+- [Italian v17-rc1.1](current/the-big-question-it-v17-rc1.1.md) — current epistemically tightened candidate.
+- [Italian v16-rc1.0](current/the-big-question-it-v16-rc1.0.md) — previous candidate preserved for comparison.
+- [Italian v15 GPT](legacy/it/essay-it-v15-gpt.md) — historical base of both candidates.
+- [English v13](legacy/en/essay-en-v13.md) — latest English draft, not aligned with Italian v17.
+- [Complete version index](legacy/README.md) — every preserved file, status, reading time, and change note.
 - [Epistemic notes](epistemic-notes.md) — the distinctions required before treating the essay as a scientific argument.
 
 ## What the version history reveals

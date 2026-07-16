@@ -4,15 +4,15 @@ require "fileutils"
 require "pathname"
 
 ROOT = Pathname(__dir__).parent
-INTRO_PATH = ROOT / "essays/the-big-question/drafts/introduction-it-1.0-rc1.md"
-BASE_PATH = ROOT / "essays/essay-it-v15-gpt.md"
-OUTPUT_PATH = ROOT / "essays/the-big-question/current/the-big-question-it-v16-rc1.0.md"
+INTRO_PATH = ROOT / "trash-end/the-big-question/drafts/introduction-it-1.0-rc1.md"
+BASE_PATH = ROOT / "trash-end/the-big-question/legacy/it/essay-it-v15-gpt.md"
+OUTPUT_PATH = ROOT / "trash-end/the-big-question/current/the-big-question-it-v16-rc1.0.md"
 
 intro_parts = INTRO_PATH.read.split(/^---\s*$/)
 abort "Could not isolate the publishable introduction" if intro_parts.length < 3
 
 intro = intro_parts[1].strip
-intro = intro.gsub(%r{\.\./\.\./essay-it-v15-gpt\.md#}, "#")
+intro = intro.gsub(%r{\.\./legacy/it/essay-it-v15-gpt\.md#}, "#")
 
 base = BASE_PATH.read
 body_start = base.index(/^## I\. La trappola antropocentrica$/)

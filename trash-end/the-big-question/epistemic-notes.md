@@ -1,7 +1,7 @@
 # Epistemic notes for The Big Question
 
 **Status:** Editorial review guide
-**Scope:** All versions, with special attention to v13 and v15
+**Scope:** All versions, with special attention to v13, v15, and the v16/v17 comparison
 
 This page does not decide the scientific questions. It records where a reader could mistake a philosophical bridge for established evidence.
 
@@ -9,11 +9,11 @@ This page does not decide the scientific questions. It records where a reader co
 
 ### Planarian memory and regeneration
 
-**Evidence:** Planaria can regenerate nervous tissue, and experiments investigate retained learned responses and distributed biological information.
+**Evidence:** In the 2013 Shomrat and Levin experiment, previously familiarized planarians showed evidence of faster behavioral recovery in a savings paradigm after decapitation and head regeneration.
 
-**Do not infer automatically:** that a stable human-like self survives brain destruction; that memory is stored in RNA alone; or that consciousness exists outside brains.
+**Do not infer automatically:** that a complete memory remained intact, that the experiment used a maze, that the information was stored in bioelectric fields or RNA, that a stable human-like self survives brain destruction, or that consciousness exists outside brains.
 
-The version history improves here: v3 foregrounds RNA, v4 introduces distributed bioelectric patterns, and v15 explicitly narrows the conclusion to distributed biological information.
+The version history improves here: v3 foregrounds RNA, v4 introduces distributed bioelectric patterns, v15 narrows the conclusion, and v17 separates behavioral memory, morphogenetic patterning, and persistent RNA interference.
 
 ### Bioelectricity, active inference, and “mind everywhere”
 
@@ -47,7 +47,7 @@ Both are real research programs. Using them together is an editorial hypothesis.
 
 ### Penrose CCC, Landauer, and recurrence
 
-Conformal Cyclic Cosmology is debated. Landauer's principle concerns the physical cost of logically irreversible information erasure. The essay's connection between an asymptotically cold universe, low erasure cost, and a conformal “reset” is explicitly speculative and is not part of Penrose's theory.
+Conformal Cyclic Cosmology is debated. Landauer's principle concerns the physical cost of logically irreversible information erasure. v17 states that using a lower Landauer bound as a physical route to a conformal reset does not follow: CCC does not use Landauer to produce its crossover.
 
 Poincaré recurrence applies under specific mathematical conditions. Applying it directly to the real universe is not automatic.
 
@@ -61,4 +61,4 @@ Computronium is a limiting idea about organizing matter for computation. Present
 
 ## Editorial rule
 
-Use the [epistemic-status convention](../../concepts/epistemic-status.md) at section level, in notes, or at the first point where a category changes. Do not interrupt every paragraph with labels. The reader should be guided, not buried in disclaimers.
+Use the [epistemic-status convention](../concepts/epistemic-status.md) at section level, in notes, or at the first point where a category changes. Do not interrupt every paragraph with labels. The reader should be guided, not buried in disclaimers.

@@ -1,5 +1,18 @@
 # Repository audit
 
+## Current state after the July 16 review
+
+- The root README is now the Essays-level index.
+- Trash-End is a child family under trash-end/, explicitly treated as the working center rather than a permanent naming lock.
+- The Big Question, Aisthesis, Synthesis, and Computronium each have their own README.
+- The Big Question separates current candidates, drafts, sources, and legacy Italian/English versions.
+- v17-rc1.1 and v16-rc1.0 are both available for direct comparison.
+- Historical v15 remains byte-for-byte unchanged.
+- The previous flat essay paths were deliberately migrated only after the user confirmed Essays → Trash-End → works. Git history preserves the old locations.
+- The GitHub remote has not been renamed or pushed, and no live-site files were changed by this editorial migration.
+
+The sections below retain the initial audit baseline and therefore describe the repository before the architecture work.
+
 **Audit baseline:** `main` at `46d8f6b`, matching `origin/main` on 2026-07-14
 **Scope:** All 23 tracked files, full Git history, supplied handoff corpus, and the live `/articles/the-big-question` route
 

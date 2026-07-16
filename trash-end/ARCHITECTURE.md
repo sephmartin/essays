@@ -37,7 +37,7 @@ Trash-End does **not** claim that biology is worthless, that the self is already
 
 ### Aisthesis: return and recovery
 
-[*Aisthesis*](essays/aisthesis/README.md) returns to the body without restoring biological supremacy. The first skin becomes an interface, an evolutionary archive, and the medium through which patterns become sensation, memory, attraction, rhythm, and emotion.
+[*Aisthesis*](aisthesis/README.md) returns to the body without restoring biological supremacy. The first skin becomes an interface, an evolutionary archive, and the medium through which patterns become sensation, memory, attraction, rhythm, and emotion.
 
 Music and attraction belong to this branch because both can begin as embodied orientation before verbal explanation. They are not the same process, and neither is reduced to a universal code.
 
@@ -45,7 +45,7 @@ Aisthesis does **not** mean only visual beauty. It does not claim that bodily re
 
 ### Synthesis: reconciliation and bridge
 
-[*Synthesis*](essays/synthesis/README.md) is the layer where the project stops choosing absolutely between body and abstraction, biology and machine, roots and future. It studies the transformations between them.
+[*Synthesis*](synthesis/README.md) is the layer where the project stops choosing absolutely between body and abstraction, biology and machine, roots and future. It studies the transformations between them.
 
 Synthesis is a work or conceptual bridge, not necessarily a master brand. The standard spelling is deliberate. `Synthesys` was considered and discarded because the pun requires explanation, is inaudible in speech, collides with existing AI uses, and would turn a conceptual architecture into a naming gimmick.
 
@@ -53,7 +53,7 @@ Synthesis does **not** imply that the connected fields have already been unified
 
 ### Computronium: horizon and possible substrate
 
-[*Computronium*](essays/computronium/README.md) keeps the established English term. It points toward matter deliberately organized for computation and toward the speculative possibility that intelligence may continue through substrates not limited to the first biological skin.
+[*Computronium*](computronium/README.md) keeps the established English term. It points toward matter deliberately organized for computation and toward the speculative possibility that intelligence may continue through substrates not limited to the first biological skin.
 
 Present AI infrastructure can be discussed as a proto-computronic tendency because more matter, energy, and infrastructure are being organized around computation. Present AI is not itself computronium in the strict limit sense.
 
@@ -93,6 +93,6 @@ The maximum of computation may not be the maximum of experience. That tension ke
 
 ## Reader navigation
 
-Readers who want the genealogy should begin with [The Big Question](essays/the-big-question/README.md) and inspect at least one early version before the current Italian draft. Readers interested in the recovered body can enter through [Aisthesis](essays/aisthesis/README.md). Readers interested in the bridge should continue to [Synthesis](essays/synthesis/README.md). Readers interested in future substrates should end, provisionally, at [Computronium](essays/computronium/README.md).
+Readers who want the genealogy should begin with [The Big Question](the-big-question/README.md) and inspect at least one early version before the current Italian draft. Readers interested in the recovered body can enter through [Aisthesis](aisthesis/README.md). Readers interested in the bridge should continue to [Synthesis](synthesis/README.md). Readers interested in future substrates should end, provisionally, at [Computronium](computronium/README.md).
 
 The archive does not end there. Each branch is expected to send questions back into the others.

@@ -1,72 +1,75 @@
-# Trash-End
+# Essays
 
-Trash-End is the origin, the laboratory, and the visible genealogy of an inquiry that began by trying to escape the first biological skin.
+This repository treats essays as versioned works: current candidates, drafts, sources, and legacy releases remain distinct and navigable.
 
-The early work confronts biology, ego, and anthropocentrism as filters. The later branches do not erase that conflict. They return to the body as perception, memory, interface, and the place where patterns become experience. From there, the inquiry opens toward reconciliation and possible future substrates.
+**Current hierarchy:** Essays → Trash-End → works
 
-## The rupture
+**Architecture status:** accepted as the working structure, not frozen as a permanent identity
 
-Trash-End begins as a rebellion against the human condition as it appeared from inside it: the distance between declared values and actual behaviour, the rationalizations built around ego and status, and the biological and psychological drives that repeatedly turn ideals into contradiction.
+**Stable releases:** none designated yet
 
-This is not a claim to stand outside humanity or to be free of the same mechanisms. The rupture begins precisely with being trapped inside them and wanting to see beyond the filter. Encounters with works dense in questions and meaning intensified that refusal until it became *The Big Question*: an attempt to push the meaning of life, intelligence, and existence to their limit.
+## Why Trash-End comes first
 
-The later branches emerge when the inquiry begins to recognize patterns rather than only reject constraints. Biology returns as information, perception, rhythm, attraction, memory, and interface. What began as escape becomes a map of connections—and eventually a question about what could survive beyond the first biological skin.
+Trash-End is the foundational family inside Essays. It begins with an intellectual rebellion against human incoherence, hypocrisy, and the biological and psychological filters that shape perception, morality, status, and ego. Meaning-dense films, books, and ideas did not resolve that conflict; they made its questions harder to ignore.
 
-> Trash-End is the escape.
-> Aisthesis is the return.
-> Synthesis is the reconciliation.
-> Computronium is what may come after.
+*The Big Question* radicalizes the rupture by asking what life, intelligence, and existence mean once the human point of view is no longer treated as the natural center. Aisthesis, Synthesis, and Computronium then branch from recurring patterns discovered along that path: sensation, information, embodiment, computation, and possible continuation beyond biological form.
 
-This is a reading path, not a closed doctrine. Trash-End preserves reversals, discarded names, unresolved scientific questions, and the version history that made the later structure possible.
+The sequence is therefore genealogical, not merely topical. Trash-End records why the questions began; the individual works follow where they led.
 
-## Start here
+## Enter Trash-End
 
-1. [The Big Question](essays/the-big-question/README.md) — the central essay and its full version history.
-2. [Aisthesis](essays/aisthesis/README.md) — perception, music, attraction, and the recovery of the body.
-3. [Synthesis](essays/synthesis/README.md) — the bridge between biological and artificial, roots and future.
-4. [Computronium](essays/computronium/README.md) — a future-facing horizon for matter reorganized around computation.
-5. [Master architecture](ARCHITECTURE.md) — how the four territories connect without becoming synonyms.
+1. [Trash-End](trash-end/README.md) — the current family and its moment of rupture.
+2. [The Big Question](trash-end/the-big-question/README.md) — the foundational inquiry and its complete version history.
+3. [Aisthesis](trash-end/aisthesis/README.md) — perception, music, attraction, and the return to the biological interface.
+4. [Synthesis](trash-end/synthesis/README.md) — reconciliation between body and abstraction, biology and machine.
+5. [Computronium](trash-end/computronium/README.md) — the future-facing horizon of matter organized for computation.
 
-The [Essays README](essays/README.md) is the canonical clickable index. The older [essay index](essays/index.md) remains as a compatibility path while the repository structure is being migrated.
+## Current reading path
 
-## What is current
+| Work | Status | Language | Direct link |
+|---|---|---|---|
+| The Big Question v17-rc1.1 | current comparison candidate | Italian | [Read](trash-end/the-big-question/current/the-big-question-it-v17-rc1.1.md) |
+| The Big Question v16-rc1.0 | previous comparison candidate | Italian | [Read](trash-end/the-big-question/current/the-big-question-it-v16-rc1.0.md) |
+| The Big Question v15 | preserved historical base | Italian | [Read](trash-end/the-big-question/legacy/it/essay-it-v15-gpt.md) |
+| The Big Question v13 | latest English draft | English | [Read](trash-end/the-big-question/legacy/en/essay-en-v13.md) |
+| Aisthesis: music | seed | Italian | [Read](trash-end/aisthesis/music.md) |
+| Aisthesis: attraction | seed | Italian | [Read](trash-end/aisthesis/attraction.md) |
+| Synthesis | conceptual seed | English | [Open project](trash-end/synthesis/README.md) |
+| Computronium | conceptual seed | English | [Open project](trash-end/computronium/README.md) |
 
-- **Current Italian release candidate:** [The Big Question, v16-rc1.0](essays/the-big-question/current/the-big-question-it-v16-rc1.0.md). It combines the approved new introduction and internal index with the complete v15 body for review.
-- **Preserved Italian base:** [The Big Question, v15 GPT](essays/essay-it-v15-gpt.md). It remains unchanged as the historical base of the release candidate.
-- **Latest English branch:** [The Big Question, v13](essays/essay-en-v13.md). It is a draft and has not yet received the corrective rewrite applied to Italian v15.
-- **Aisthesis:** two supplied seeds, not finished essays.
-- **Synthesis and Computronium:** architectural seeds, not finalized projects or brands.
-- **Stable release:** none has been designated yet.
+## The Big Question: Italian version history
 
-Earlier files remain where they were. They are not clutter to be cleaned up; they are the archaeological record of the argument changing its mind.
+| Version | Status | Direct link | Main change |
+|---|---|---|---|
+| v17-rc1.1 | current comparison candidate | [Read](trash-end/the-big-question/current/the-big-question-it-v17-rc1.1.md) | Planarian, LLM, Landauer/CCC, and final-causality corrections |
+| v16-rc1.0 | previous comparison candidate | [Read](trash-end/the-big-question/current/the-big-question-it-v16-rc1.0.md) | Human-first introduction, internal index, stable chapter anchors |
+| v3 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v3.md) | Initial Italian structure |
+| v4 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v4.md) | RNA and bioelectric clarification |
+| v5 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v5.md) | Editorial restructuring |
+| v6 | historical duplicate | [Read](trash-end/the-big-question/legacy/it/essay-it-v6.md) | Byte-identical to v5 |
+| v7 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v7.md) | Lewis transition revised |
+| v8 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v8.md) | HADD block added |
+| v9 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v9.md) | References and citation markers |
+| v10 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v10.md) | Universal claims softened |
+| v11 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v11.md) | Westworld correction |
+| v12 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v12.md) | DeepMind source added |
+| v13 | superseded draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v13.md) | Ambitious cross-framework bridge; language and epistemic defects remain |
+| v15 | preserved historical base | [Read](trash-end/the-big-question/legacy/it/essay-it-v15-gpt.md) | Full epistemic and editorial rewrite |
 
-## Epistemic convention
+## The Big Question: English version history
 
-New architecture pages use five light labels:
+| Version | Status | Direct link | Main change |
+|---|---|---|---|
+| v3 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v3.md) | Initial English structure |
+| v4 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v4.md) | RNA and bioelectric clarification |
+| v5 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v5.md) | Editorial restructuring |
+| v6 | historical duplicate | [Read](trash-end/the-big-question/legacy/en/essay-en-v6.md) | Byte-identical to v5 |
+| v7 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v7.md) | Nietzsche and *Blind Patriotism* |
+| v8 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v8.md) | HADD and belief systems |
+| v9 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v9.md) | References and citation markers |
+| v10 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v10.md) | Universal claims softened |
+| v11 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v11.md) | Westworld correction |
+| v12 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v12.md) | DeepMind source added |
+| v13 | current English draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v13.md) | Latest English branch; not aligned with Italian v17 |
 
-- **Evidence** — sourceable observations or established definitions.
-- **Interpretation** — a philosophical reading of evidence.
-- **Analogy** — a useful connection that does not prove equivalence.
-- **Speculation** — an explicitly unverified possibility.
-- **Open question** — a live problem without closure.
-
-See [Epistemic status](concepts/epistemic-status.md) for the full convention and [Epistemic notes for The Big Question](essays/the-big-question/epistemic-notes.md) for known pressure points.
-
-## History and provenance
-
-- [Project history](archive/project-history.md)
-- [Decision log](archive/decision-log.md)
-- [Conversation sources](archive/conversation-sources.md)
-- [Concept map](concepts/concept-map.md)
-- [Glossary](concepts/glossary.md)
-- [Repository audit](AUDIT.md)
-
-The raw conversation exports are recorded by checksum but are not copied into this public repository. Assistant proposals are not treated as Giuseppe Petrini's decisions unless the conversation shows explicit adoption.
-
-## Naming principle
-
-Trash-End keeps the only deliberate pun because the pun belongs to the project's origin and history. Aisthesis, Synthesis, and Computronium remain real terms.
-
-> The first project plays with words. The works that follow let the ideas play with one another.
-
-This formulation was co-developed in dialogue. It is not presented as an independently authored verbatim quotation by Giuseppe.
+The missing version numbers remain missing. The repository does not invent v1, v2, or a tracked v14 that was never published in the original history. Development artifacts are recorded separately inside the relevant work.

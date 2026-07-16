@@ -93,3 +93,28 @@ On 2026-07-16, a complete Italian release candidate was added without modifying 
 The candidate adds the human-first introduction, a clickable internal index, and explicit stable chapter anchors. The body remains the v15 body except for removing the comma from the chapter title `Un ponte e le sue crepe`. The deferred cultural chronology and Computronium cameo are not included.
 
 Navigation in the root README, Essays README, The Big Question README, roadmap, and decision log now distinguishes the current release candidate from its preserved historical base. No site files, remote repository settings, tags, or external accounts were changed.
+
+## Editorial update: v17-rc1.1
+
+The second comparison candidate preserves v16-rc1.0 and changes four high-risk passages:
+
+- the 2013 planarian result is described as a savings/relearning effect rather than an intact maze memory;
+- learned behavior, morphogenetic patterning, and persistent RNA interference are separated;
+- Transformer language models are not presented as rough copies of biological brains;
+- Landauer's bound is no longer used as a physical bridge to a CCC reset;
+- the final why is explicitly a question reopened by phenomena, not their cause.
+
+Four primary sources were added for the targeted review: Shomrat and Levin 2013, Vaswani et al. 2017, Landauer 1961, and Penrose 2014.
+
+## Structural update: Essays → Trash-End → works
+
+After explicit confirmation on 2026-07-16, the local branch was migrated from the temporary flat essays layout to:
+
+- README.md — Essays-level index;
+- trash-end/README.md — current family and genealogy;
+- trash-end/the-big-question/ — current candidates, drafts, sources, and legacy;
+- trash-end/aisthesis/, synthesis/, computronium/ — individual works.
+
+All historical Italian and English files now live under trash-end/the-big-question/legacy/. No version was deleted or rewritten. The earlier “files moved or deleted: none” statement describes the first additive architecture pass and is superseded by this later, user-approved migration.
+
+The remote repository remains named trash-end-archive for now. No push, repository rename, tag, site deploy, domain change, or social-profile change was performed.

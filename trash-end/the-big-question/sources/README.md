@@ -13,10 +13,21 @@ This directory contains distilled, public-safe source records. Raw conversation 
 
 The conversation spans 2026-06-15 16:23:46 through 17:30:46 and contains 26 top-level messages. Its attachment metadata identifies `essay-it-v14.md`; the local file matches that name and reported size.
 
+## July 16, 2026 targeted primary-source pass
+
+These sources support the changes made in v17-rc1.1:
+
+| Passage | Primary source | Editorial use |
+|---|---|---|
+| Planarian behavior after head regeneration | [Shomrat & Levin, Journal of Experimental Biology (2013)](https://doi.org/10.1242/jeb.087809) | Describes environmental familiarization and a savings effect; does not establish an intact maze memory or its storage mechanism |
+| Transformer language models | [Vaswani et al., Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762) | Grounds the architecture description without treating LLMs as biological-brain replicas |
+| Thermodynamic cost of erasure | [Landauer, IBM Journal of Research and Development (1961)](https://doi.org/10.1147/rd.53.0183) | Supports the erasure bound, not a cosmic reset mechanism |
+| Conformal Cyclic Cosmology | [Penrose, Foundations of Physics (2014)](https://doi.org/10.1007/s10701-013-9763-z) | Grounds CCC as a distinct cosmological proposal that does not derive its crossover from Landauer |
+
 ## Related source records
 
 - [June 15 v14-to-v15 development chronology](2026-06-15-v15-development.md)
-- [Repository-wide conversation manifest](../../../archive/conversation-sources.md)
+- [Repository-wide conversation manifest](../../archive/conversation-sources.md)
 - [Editorial roadmap](../editorial-roadmap.md)
 
 ## Attribution rule

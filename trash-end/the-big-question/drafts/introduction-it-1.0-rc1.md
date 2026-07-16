@@ -28,12 +28,12 @@ Quello che segue è quindi una mappa speculativa, non una catena dimostrativa. P
 
 Il saggio è pensato come un percorso, ma non richiede una lettura lineare. Puoi iniziare dall'inizio oppure entrare direttamente nel capitolo che ti interessa di più.
 
-1. [La trappola antropocentrica](../../essay-it-v15-gpt.md#i-la-trappola-antropocentrica)
-2. [Il codice sotto la pelle](../../essay-it-v15-gpt.md#ii-il-codice-sotto-la-pelle)
-3. [Il prossimo gradino](../../essay-it-v15-gpt.md#iii-il-prossimo-gradino)
-4. [Oltre l'entropia](../../essay-it-v15-gpt.md#iv-oltre-lentropia)
-5. [Un ponte e le sue crepe](../../essay-it-v15-gpt.md#v-un-ponte-e-le-sue-crepe)
-6. [The Big Question](../../essay-it-v15-gpt.md#vi-the-big-question)
+1. [La trappola antropocentrica](../legacy/it/essay-it-v15-gpt.md#i-la-trappola-antropocentrica)
+2. [Il codice sotto la pelle](../legacy/it/essay-it-v15-gpt.md#ii-il-codice-sotto-la-pelle)
+3. [Il prossimo gradino](../legacy/it/essay-it-v15-gpt.md#iii-il-prossimo-gradino)
+4. [Oltre l'entropia](../legacy/it/essay-it-v15-gpt.md#iv-oltre-lentropia)
+5. [Un ponte e le sue crepe](../legacy/it/essay-it-v15-gpt.md#v-un-ponte-e-le-sue-crepe)
+6. [The Big Question](../legacy/it/essay-it-v15-gpt.md#vi-the-big-question)
 
 ---
 

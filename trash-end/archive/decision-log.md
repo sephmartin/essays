@@ -6,11 +6,26 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Accepted decisions
 
+### Use Essays → Trash-End → works as the current hierarchy
+
+- **Status:** EXPLICIT_DECISION
+- **Decision:** Essays is the repository-level parent; Trash-End is the current family beneath it; The Big Question, Aisthesis, Synthesis, and Computronium are versioned works within that family.
+- **Boundary:** Trash-End is confirmed as the working center for now, not as an irreversible permanent macro.
+- **Implementation:** The repository tree now mirrors that order, and previous essay versions live under The Big Question legacy.
+- **Source:** Current user direction, 2026-07-16.
+
+### Create v17-rc1.1 as an epistemic comparison candidate
+
+- **Status:** EXPLICIT_DECISION
+- **Decision:** Preserve v16-rc1.0 and assemble v17-rc1.1 with targeted corrections to planarian memory, LLM-brain comparisons, the Landauer/CCC bridge, and the final worm/universe passage.
+- **Implementation:** Both complete candidates remain available in [current](../the-big-question/current/README.md).
+- **Source:** Current user direction, 2026-07-16.
+
 ### Assemble v16-rc1.0 without rewriting historical v15
 
 - **Status:** `EXPLICIT_DECISION`
 - **Decision:** Assemble a complete Italian `v16-rc1.0` for review before any site work.
-- **Implementation:** The approved introduction and clickable chapter index are combined with the full v15 body in [the current candidate](../essays/the-big-question/current/the-big-question-it-v16-rc1.0.md). The build is reproducible, and historical v15 remains byte-for-byte unchanged.
+- **Implementation:** The approved introduction and clickable chapter index are combined with the full v15 body in [the current candidate](../the-big-question/current/the-big-question-it-v16-rc1.0.md). The build is reproducible, and historical v15 remains byte-for-byte unchanged.
 - **Boundary:** The deferred cultural chronology, possible Computronium cameo, final scientific audit, site integration, and stable `1.0` designation remain separate decisions.
 - **Source:** Current user direction, 2026-07-16.
 
@@ -27,7 +42,7 @@ The labels below preserve provenance rather than making every useful formulation
 - **Decision:** The introduction should not tell the reader, before the argument begins, that the work emerged through extensive AI conversations.
 - **Rationale:** That framing can create a disqualifying prejudice before the reader encounters the ideas.
 - **Boundary:** The AI-assisted development process remains part of the provenance and method; it should be repositioned, not hidden.
-- **Implementation:** The [introduction source](../essays/the-big-question/drafts/introduction-it-1.0-rc1.md) opens with Asimov and the persistence of *why* and is integrated into [v16-rc1.0](../essays/the-big-question/current/the-big-question-it-v16-rc1.0.md). Historical v15 remains unchanged.
+- **Implementation:** The [introduction source](../the-big-question/drafts/introduction-it-1.0-rc1.md) opens with Asimov and the persistence of *why* and is integrated into [v16-rc1.0](../the-big-question/current/the-big-question-it-v16-rc1.0.md). Historical v15 remains unchanged.
 - **Source:** Current user direction, 2026-07-14.
 
 ### Trash-End begins in rebellion against human-biological contradiction
@@ -125,7 +140,7 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Open questions
 
-- **Repository parent:** The current preferred hierarchy is `Essays -> Trash-End -> works`, but the existing GitHub repository has not yet been renamed or migrated.
+- **Repository name:** The local tree now follows Essays → Trash-End → works, but the remote repository is still named `trash-end-archive`. A remote rename can wait until the hierarchy survives review.
 - **Status of The Big Question:** Which version, after scientific review, becomes the first stable release?
 - **English current text:** Should v15 be translated/recomposed into English, or should v13 receive an independent corrective rewrite?
 - **Scientific review:** Which planarian-memory, Assembly Theory, active-inference, Constructor Theory, CCC, Landauer, and machine-consciousness claims survive expert review?
