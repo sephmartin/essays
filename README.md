@@ -20,7 +20,7 @@ The earlier web prototype titled *Archivio di Transizione* remains separate. Its
 
 Trash-End is the foundational family inside Essays. It begins with an intellectual rebellion against human incoherence, hypocrisy, and the biological and psychological filters that shape perception, morality, status, and ego. Meaning-dense films, books, and ideas did not resolve that conflict; they made its questions harder to ignore.
 
-*The Big Question* radicalizes the rupture by asking what life, intelligence, and existence mean once the human point of view is no longer treated as the natural center. Aisthesis, Synthesis, and Computronium then branch from recurring patterns discovered along that path: sensation, information, embodiment, computation, and possible continuation beyond biological form.
+*The Big Question* radicalizes the rupture by asking what life, intelligence, and existence mean once the human point of view is no longer treated as the natural center. A new essay seed on anthropocentrism and pattern then asks why the human center reappears even inside that attempt. Aisthesis, Synthesis, and Computronium branch from the same path through sensation, information, embodiment, computation, and possible continuation beyond biological form.
 
 The sequence is therefore genealogical, not merely topical. Trash-End records why the questions began; the individual works follow where they led.
 
@@ -28,9 +28,10 @@ The sequence is therefore genealogical, not merely topical. Trash-End records wh
 
 1. [Trash-End](trash-end/README.md) — the current family and its moment of rupture.
 2. [The Big Question](trash-end/the-big-question/README.md) — the foundational inquiry and its complete version history.
-3. [Aisthesis](trash-end/aisthesis/README.md) — perception, music, attraction, and the return to the biological interface.
-4. [Synthesis](trash-end/synthesis/README.md) — reconciliation between body and abstraction, biology and machine.
-5. [Computronium](trash-end/computronium/README.md) — the future-facing horizon of matter organized for computation.
+3. [Anthropocentrism and pattern](trash-end/anthropocentrism/README.md) — why human patterns rebuild the center even when the inquiry tries to leave it.
+4. [Aisthesis](trash-end/aisthesis/README.md) — perception, music, attraction, and the return to the biological interface.
+5. [Synthesis](trash-end/synthesis/README.md) — reconciliation between body and abstraction, biology and machine.
+6. [Computronium](trash-end/computronium/README.md) — the future-facing horizon of matter organized for computation.
 
 ## Current reading path
 
@@ -40,6 +41,7 @@ The sequence is therefore genealogical, not merely topical. Trash-End records wh
 | The Big Question v16-rc1.0 | previous comparison candidate | Italian | [Read](trash-end/the-big-question/current/the-big-question-it-v16-rc1.0.md) |
 | The Big Question v15 | preserved historical base | Italian | [Read](trash-end/the-big-question/legacy/it/essay-it-v15-gpt.md) |
 | The Big Question v13 | latest English draft | English | [Read](trash-end/the-big-question/legacy/en/essay-en-v13.md) |
+| Anthropocentrism and pattern | conceptual seed, title pending | Italian | [Open project](trash-end/anthropocentrism/README.md) |
 | Aisthesis: music | seed | Italian | [Read](trash-end/aisthesis/music.md) |
 | Aisthesis: attraction | seed | Italian | [Read](trash-end/aisthesis/attraction.md) |
 | Synthesis | conceptual seed | English | [Open project](trash-end/synthesis/README.md) |

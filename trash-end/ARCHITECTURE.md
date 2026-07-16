@@ -4,7 +4,7 @@
 **Language:** English
 **Updated:** 2026-07-16
 
-This document explains the current relationship among Trash-End, The Big Question, Aisthesis, Synthesis, and Computronium. It is an editorial map, not a metaphysical constitution.
+This document explains the current relationship among Trash-End, The Big Question, the emerging anthropocentrism-and-pattern essay, Aisthesis, Synthesis, and Computronium. It is an editorial map, not a metaphysical constitution.
 
 ## Galaxy and archive
 
@@ -20,6 +20,7 @@ The current preferred direction is to place Trash-End inside a wider author-leve
 Essays
 └── Trash-End
     ├── The Big Question
+    ├── Anthropocentrism and pattern
     ├── Aisthesis
     ├── Synthesis
     └── Computronium
@@ -40,6 +41,14 @@ Trash-End contains the first conflict: biology as first skin, ego as filter, and
 It is not a failed former name. It is the foundation from which multiple works emerge. Its version history shows how claims about RNA, bioelectric memory, AI, recurrence, and cosmology were corrected over time.
 
 Trash-End does **not** claim that biology is worthless, that the self is already transferable, or that present AI has transcended the human condition.
+
+### Anthropocentrism and pattern: the recursive mirror
+
+[This emerging essay](anthropocentrism/README.md) begins where the attempted decentering catches itself. Human beings search for knowledge through patterns available to human perception, concepts, instruments, and history. The problem is not solved by declaring a non-human point of view.
+
+Its central distinction is between unavoidable situated perspective and avoidable anthropocentric error. The work also returns to AI as both a concentrated mirror of human traces and a possible instrument for representations that are not intuitive to a single human observer.
+
+The essay does **not** yet establish that all reality is pattern, that causal knowledge reduces to correlation, or that present AI has escaped human categories.
 
 ### Aisthesis: return and recovery
 
@@ -77,6 +86,7 @@ The useful shorthand is:
 But the fuller structure is recursive:
 
 - Trash-End criticizes the biological filter.
+- The anthropocentrism-and-pattern essay examines why that critique still reconstructs a human frame.
 - Aisthesis recovers the filter as an instrument of perception.
 - Synthesis asks what can move between organism and machine without pretending they are identical.
 - Computronium tests the outer horizon of that movement.
@@ -99,6 +109,6 @@ The maximum of computation may not be the maximum of experience. That tension ke
 
 ## Reader navigation
 
-Readers who want the genealogy should begin with [The Big Question](the-big-question/README.md) and inspect at least one early version before the current Italian draft. Readers interested in the recovered body can enter through [Aisthesis](aisthesis/README.md). Readers interested in the bridge should continue to [Synthesis](synthesis/README.md). Readers interested in future substrates should end, provisionally, at [Computronium](computronium/README.md).
+Readers who want the genealogy should begin with [The Big Question](the-big-question/README.md) and inspect at least one early version before the current Italian draft. Readers interested in why decentering remains human should continue to [Anthropocentrism and pattern](anthropocentrism/README.md). Readers interested in the recovered body can enter through [Aisthesis](aisthesis/README.md). Readers interested in the bridge should continue to [Synthesis](synthesis/README.md). Readers interested in future substrates should end, provisionally, at [Computronium](computronium/README.md).
 
 The tree does not end there. Each branch is expected to send questions back into the others.

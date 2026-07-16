@@ -33,6 +33,7 @@ This history combines the repository's Git record with the later conversation th
 - **July 16, fragment boundary:** The four short texts in the early Archivio di Transizione site are classified as fragments and kept separate from the living work tree.
 - **July 16, v17-rc1.1:** Planarian memory, Transformer architecture, Landauer/CCC, and the final worm/universe passage receive a targeted epistemic correction while v16 remains available for comparison.
 - **July 16, rhythm across life:** The music seed expands from human groove toward animal entrainment, plant responses to vibration, and cellular coordination. The project keeps groove as an experiential term and uses the broader pattern as a sourced bridge toward Computronium.
+- **July 16, anthropocentric pattern seed:** A separate essay begins from The Big Question's recursive admission that even an attempt to decenter humanity uses human patterns. A prior discussion with Maya is identified as development provenance but remains unattached; the seed connects the limit to AI without claiming that present systems already provide a non-human viewpoint.
 
 ## What the history means
 

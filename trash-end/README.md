@@ -22,10 +22,11 @@ This is a reading path, not a closed doctrine. Trash-End preserves reversals, di
 ## Start here
 
 1. [The Big Question](the-big-question/README.md) — the central essay and its full version history.
-2. [Aisthesis](aisthesis/README.md) — perception, music, attraction, and the recovery of the body.
-3. [Synthesis](synthesis/README.md) — the bridge between biological and artificial, roots and future.
-4. [Computronium](computronium/README.md) — a future-facing horizon for matter reorganized around computation.
-5. [Master architecture](ARCHITECTURE.md) — how the four territories connect without becoming synonyms.
+2. [Anthropocentrism and pattern](anthropocentrism/README.md) — the recursive limit of trying to think beyond human patterns.
+3. [Aisthesis](aisthesis/README.md) — perception, music, attraction, and the recovery of the body.
+4. [Synthesis](synthesis/README.md) — the bridge between biological and artificial, roots and future.
+5. [Computronium](computronium/README.md) — a future-facing horizon for matter reorganized around computation.
+6. [Master architecture](ARCHITECTURE.md) — how the territories connect without becoming synonyms.
 
 The parent [Essays README](../README.md) is the canonical repository index. Trash-End remains the working family for these works, while its long-term role as the permanent center remains open.
 
@@ -41,6 +42,7 @@ That separate archive preserves four early-stage notes as fragments. They show w
 - **Previous comparison candidate:** [The Big Question, v16-rc1.0](the-big-question/current/the-big-question-it-v16-rc1.0.md).
 - **Preserved Italian base:** [The Big Question, v15 GPT](the-big-question/legacy/it/essay-it-v15-gpt.md).
 - **Latest English branch:** [The Big Question, v13](the-big-question/legacy/en/essay-en-v13.md). It has not yet received the corrective rewrite applied to the current Italian candidates.
+- **Anthropocentrism and pattern:** new Italian conceptual seed; final title and source review remain open.
 - **Aisthesis:** two supplied seeds, not finished essays.
 - **Synthesis and Computronium:** architectural seeds, not finalized projects or brands.
 - **Stable release:** none has been designated yet.

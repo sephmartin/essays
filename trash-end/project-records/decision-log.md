@@ -6,6 +6,16 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Accepted decisions
 
+### Develop anthropocentrism and pattern as a separate essay
+
+- **Status:** EXPLICIT_DECISION
+- **Decision:** The recursive admission inside The Big Question should become a separate essay about why human knowledge, speculation, and discovery depend on recognizable patterns and therefore repeatedly reconstruct an anthropocentric frame.
+- **AI connection:** The essay should examine AI as both a thought partner trained on human traces and a possible route toward representations that are less intuitive to humans.
+- **Boundary:** “All knowledge is exclusively pattern” remains the author's philosophical thesis to argue, not a settled scientific result. The essay must distinguish unavoidable human situatedness from avoidable anthropocentric overreach.
+- **Provenance:** The idea was developed in an earlier discussion with Maya. The exact chat has not yet been supplied, so no wording from it is treated as a verified quotation.
+- **Implementation:** A new topic directory and indexed README preserve the seed without choosing a final title or drafting a release candidate.
+- **Source:** Current user direction, 2026-07-16.
+
 ### Extend the groove inquiry across living systems
 
 - **Status:** EXPLICIT_DECISION
