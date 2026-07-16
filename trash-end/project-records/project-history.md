@@ -34,6 +34,9 @@ This history combines the repository's Git record with the later conversation th
 - **July 16, v17-rc1.1:** Planarian memory, Transformer architecture, Landauer/CCC, and the final worm/universe passage receive a targeted epistemic correction while v16 remains available for comparison.
 - **July 16, rhythm across life:** The music seed expands from human groove toward animal entrainment, plant responses to vibration, and cellular coordination. The project keeps groove as an experiential term and uses the broader pattern as a sourced bridge toward Computronium.
 - **July 16, anthropocentric pattern seed:** A separate essay begins from The Big Question's recursive admission that even an attempt to decenter humanity uses human patterns. A prior discussion with Maya is identified as development provenance but remains unattached; the seed connects the limit to AI without claiming that present systems already provide a non-human viewpoint.
+- **July 16, consciousness seed:** A second Maya-related source is recovered: a 66-minute recorded conversation between Maya and GPT Live. A separate essay will compare animal, human, and artificial consciousness; raw media and transcript remain local.
+- **July 16, alignment seed:** The AI-as-next-step narrative becomes explicitly conditional on alignment. A separate work will distinguish beneficial continuation from mere succession and will add probabilities only through dated, decomposed, sourceable estimates.
+- **July 16, apophenia correction:** HADD and apophenia are separated; the Newton example is corrected from “solving pi” to using infinite-series methods to calculate it. These changes are recorded for a later candidate rather than written over the author’s current local v17 edits.
 
 ## What the history means
 

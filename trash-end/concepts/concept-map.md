@@ -13,13 +13,19 @@ flowchart TD
     P --> A["Attraction"]
     MU --> E["Memory and emotion"]
     A --> E
-    E --> C["Consciousness: open question"]
+    B --> AC["Animal consciousness: inference"]
+    E --> HC["Human consciousness: report and inference"]
     B --> AU["Autopoiesis"]
     I --> CO["Computation"]
-    C --> AI["AI as mirror and possible other"]
-    CO --> AI
+    CO --> AI["AI as mirror and possible other"]
+    AI --> MC["Machine consciousness: open"]
+    AC --> C["Consciousness: comparative problem"]
+    HC --> C
+    MC --> C
     HP --> AI
     AI --> HP
+    AI --> AL["Alignment: separate condition"]
+    AL --> SY
     B --> DT["Biological / digital twins"]
     DT --> SY["Synthesis"]
     AI --> SY
@@ -38,6 +44,8 @@ flowchart TD
 - **Biology → first skin:** the body is both constraint and instrument.
 - **First skin → human pattern library:** perception and culture make some regularities salient while leaving others difficult or impossible to recognize.
 - **Human patterns ↔ AI:** AI can intensify inherited human categories or expose representations that are not intuitive to an individual observer; neither direction guarantees escape from anthropocentrism.
+- **Animal / human / machine → consciousness:** each case offers different evidence and uncertainty; language, intelligence, and behavior cannot be used as automatic substitutes for experience.
+- **AI → alignment:** greater capability does not guarantee beneficial continuation, and alignment does not prove consciousness.
 - **Aisthesis → music / attraction:** both begin in situated perception, but they are not identical mechanisms.
 - **Information → computation:** computation transforms information; information can exist without being computation in the same operational sense.
 - **AI → mirror:** AI can reorganize thought, expose blind spots, or reinforce self-confirming loops. It is neither neutral nor guaranteed truthful.

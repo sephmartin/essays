@@ -15,6 +15,8 @@ Conceptually, this repository is a galaxy: works can branch, orbit one another, 
         │   ├── sources/
         │   └── legacy/
         ├── anthropocentrism/
+        ├── consciousness/
+        ├── alignment/
         ├── aisthesis/
         ├── synthesis/
         ├── computronium/

@@ -29,9 +29,11 @@ The sequence is therefore genealogical, not merely topical. Trash-End records wh
 1. [Trash-End](trash-end/README.md) — the current family and its moment of rupture.
 2. [The Big Question](trash-end/the-big-question/README.md) — the foundational inquiry and its complete version history.
 3. [Anthropocentrism and pattern](trash-end/anthropocentrism/README.md) — why human patterns rebuild the center even when the inquiry tries to leave it.
-4. [Aisthesis](trash-end/aisthesis/README.md) — perception, music, attraction, and the return to the biological interface.
-5. [Synthesis](trash-end/synthesis/README.md) — reconciliation between body and abstraction, biology and machine.
-6. [Computronium](trash-end/computronium/README.md) — the future-facing horizon of matter organized for computation.
+4. [Consciousness](trash-end/consciousness/README.md) — animal, human, and artificial experience without treating behavior, intelligence, and sentience as synonyms.
+5. [Alignment](trash-end/alignment/README.md) — the condition hidden inside the narrative of AI as the next step.
+6. [Aisthesis](trash-end/aisthesis/README.md) — perception, music, attraction, and the return to the biological interface.
+7. [Synthesis](trash-end/synthesis/README.md) — reconciliation between body and abstraction, biology and machine.
+8. [Computronium](trash-end/computronium/README.md) — the future-facing horizon of matter organized for computation.
 
 ## Current reading path
 
@@ -42,6 +44,8 @@ The sequence is therefore genealogical, not merely topical. Trash-End records wh
 | The Big Question v15 | preserved historical base | Italian | [Read](trash-end/the-big-question/legacy/it/essay-it-v15-gpt.md) |
 | The Big Question v13 | latest English draft | English | [Read](trash-end/the-big-question/legacy/en/essay-en-v13.md) |
 | Anthropocentrism and pattern | conceptual seed, title pending | Italian | [Open project](trash-end/anthropocentrism/README.md) |
+| Consciousness | conceptual seed, title pending | Italian | [Open project](trash-end/consciousness/README.md) |
+| Alignment | conceptual seed, title pending | Italian | [Open project](trash-end/alignment/README.md) |
 | Aisthesis: music | seed | Italian | [Read](trash-end/aisthesis/music.md) |
 | Aisthesis: attraction | seed | Italian | [Read](trash-end/aisthesis/attraction.md) |
 | Synthesis | conceptual seed | English | [Open project](trash-end/synthesis/README.md) |

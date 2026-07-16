@@ -14,9 +14,12 @@ Questo saggio comincia con un’ammissione: anche mentre provo a criticare l’a
 2. [La tesi dei pattern](#la-tesi-dei-pattern)
 3. [Prospettiva umana e antropocentrismo](#prospettiva-umana-e-antropocentrismo)
 4. [L’AI come specchio e apertura](#lai-come-specchio-e-apertura)
-5. [Confini epistemici](#confini-epistemici)
-6. [Relazione con gli altri saggi](#relazione-con-gli-altri-saggi)
-7. [Domande di sviluppo](#domande-di-sviluppo)
+5. [HADD, apofenia e scoperta](#hadd-apofenia-e-scoperta)
+6. [Loop e baby universi](#loop-e-baby-universi)
+7. [Il perché biologico e il perché metafisico](#il-perche-biologico-e-il-perche-metafisico)
+8. [Confini epistemici](#confini-epistemici)
+9. [Relazione con gli altri saggi](#relazione-con-gli-altri-saggi)
+10. [Domande di sviluppo](#domande-di-sviluppo)
 
 <a id="lammissione-ricorsiva"></a>
 ## L’ammissione ricorsiva
@@ -58,6 +61,38 @@ L’AI rende il problema ricorsivo.
 - Rimane però orientata da dati, obiettivi, strumenti di valutazione e domande che hanno ancora una genealogia umana.
 
 Usare l’AI per uscire dall’antropocentrismo potrebbe quindi produrre uno specchio più potente oppure una prima apertura verso pattern meno intuitivi per noi. Il problema è che anche il criterio con cui distinguiamo lo specchio dall’apertura passa, almeno inizialmente, attraverso il giudizio umano.
+
+<a id="hadd-apofenia-e-scoperta"></a>
+## HADD, apofenia e scoperta
+
+HADD e apofenia sono collegabili, ma non sono sinonimi. L’**apofenia** è la tendenza generale a percepire connessioni o significati in dati casuali o non collegati. La **Hyperactive Agency Detection Device** è un’ipotesi più specifica: una propensione a rilevare agenti e intenzioni anche in segnali ambigui. [Barrett, 2000](https://doi.org/10.1016/S1364-6613(99)01419-9); [apophenia and probabilistic choice](https://pmc.ncbi.nlm.nih.gov/articles/PMC5776328/)
+
+Il testo di *The Big Question* non dovrebbe presentare HADD come un dispositivo evolutivo definitivamente dimostrato. Studi empirici hanno trovato limiti e risultati non sempre coerenti con la versione forte dell’ipotesi. Può essere usata come modello discusso della rilevazione di agency, mentre apofenia è il termine più ampio per il rischio di vedere pattern significativi dove non esistono. [Boundary conditions of HADD](https://doi.org/10.1080/2153599X.2017.1362662)
+
+Questo stesso motore non produce soltanto errori. Cercare regolarità permette anche di costruire ipotesi nuove. La differenza tra scoperta e apofenia emerge dopo l’intuizione: derivazione, prova, predizione, misura e possibilità di fallire.
+
+Newton non “risolse π”, che era studiato da millenni. Usò metodi di serie infinite e il teorema binomiale generalizzato per calcolarlo in un modo nuovo ed efficiente. L’esempio è utile proprio perché un pattern matematico creativo diventò conoscenza attraverso una dimostrazione, non perché l’intuizione fosse sufficiente. [Newton, *De Analysi*](https://www.newtonproject.ox.ac.uk/view/texts/diplomatic/NATP00204)
+
+<a id="loop-e-baby-universi"></a>
+## Loop e baby universi
+
+Il computer post-Asimov, il loop cosmico e perfino l’espressione *baby universe* usano pattern che conosciamo già: ricorrenza, nascita, morte, memoria, riproduzione e nuovo inizio. Questo non rende false le teorie cosmologiche che possono includere cicli o nuovi universi. Rende visibile una pressione cognitiva: tra molte possibilità, alcune ci appaiono pensabili perché hanno già una forma familiare.
+
+Il saggio dovrà quindi separare due domande:
+
+1. quali modelli fisici rendono possibile un ciclo o la generazione di un universo;
+2. perché la mente umana trova quei modelli narrativamente e intuitivamente attraenti.
+
+La familiarità di un pattern può spiegare perché lo immaginiamo. Non aumenta da sola la sua probabilità fisica.
+
+<a id="il-perche-biologico-e-il-perche-metafisico"></a>
+## Il perché biologico e il perché metafisico
+
+L’impulso a chiedere *perché* può avere una genealogia biologica: cercare cause, agenti, regolarità e scopi ha valore per un organismo che deve prevedere il mondo. Da questo non segue che ogni oggetto della domanda sia biologico o che la domanda sia già priva di senso.
+
+Bisogna distinguere l’origine della domanda da ciò che la domanda tenta di conoscere. La biologia può spiegare perché un essere umano cerca una causa ultima; non decide da sola se esista o meno una spiegazione ulteriore.
+
+La parola *motivo* è ancora più impegnativa di *perché*, perché suggerisce un agente, un’intenzione o uno scopo. La formulazione meno antropocentrica non è “quale motivo aveva l’universo?”, ma “perché esiste questa struttura, con queste regolarità, invece di nessuna o di un’altra?”. Anche quest’ultima domanda potrebbe superare il dominio delle spiegazioni disponibili, ma non introduce già una volontà cosmica.
 
 <a id="confini-epistemici"></a>
 ## Confini epistemici

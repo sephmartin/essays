@@ -6,6 +6,32 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Accepted decisions
 
+### Separate consciousness into its own essay
+
+- **Status:** EXPLICIT_DECISION
+- **Decision:** Develop a separate essay comparing animal, human, and artificial consciousness without treating behavior, intelligence, language, continuity, or self-description as interchangeable evidence.
+- **Source material:** A recorded conversation between Maya of Sesame and GPT Live should support the work after local audio recovery and transcription.
+- **Boundary:** The exact GPT product/model version is not yet verified. The raw recording and transcript stay out of public Git by default.
+- **Implementation:** A new consciousness README and public-safe source manifest preserve the seed while the full transcript remains local.
+- **Source:** Current user direction, 2026-07-16.
+
+### Make the AI transition conditional on alignment
+
+- **Status:** EXPLICIT_DECISION
+- **Decision:** Any presentation of AI as the next beneficial step must state that the transition depends on successful alignment; the problem should also become a separate essay.
+- **Quantitative direction:** Claims should use probabilities and statistics where events can be defined and estimates can be sourced rigorously.
+- **Boundary:** Do not create false precision for metaphysical claims or collapse capability, consciousness, alignment, deployment, and beneficial continuation into one percentage.
+- **Implementation:** A new alignment README defines the conditional chain and a future quantitative claim ledger.
+- **Source:** Current user direction, 2026-07-16.
+
+### Connect HADD to apophenia without treating them as synonyms
+
+- **Status:** EXPLICIT_DECISION plus editorial correction
+- **Decision:** The pattern-matching engine should be made visible inside the anthropocentrism discussion, including its productive role in abstraction and its risk of apophenia.
+- **Correction:** HADD is a narrower and debated agency-detection hypothesis; apophenia is broader illusory pattern perception. The current v17 wording should be revised only in a later candidate because the author is editing v17 locally.
+- **Related correction:** Newton did not solve pi; his work on infinite series offers a better example of pattern recognition becoming knowledge through derivation and proof.
+- **Source:** Current user direction, 2026-07-16.
+
 ### Develop anthropocentrism and pattern as a separate essay
 
 - **Status:** EXPLICIT_DECISION
