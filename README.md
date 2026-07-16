@@ -1,89 +1,53 @@
 # Essays
 
-This repository treats essays as versioned works: current candidates, drafts, sources, and legacy releases remain distinct and navigable.
+A versioned collection of essays by Seph Martin. Each work is treated like software: it has a public entry point, an explicit state, sources, active candidates, and a preserved development history.
 
 **Current hierarchy:** Essays → Trash-End → works
 
-**Architecture status:** accepted as the working structure, not frozen as a permanent identity
+**Architecture:** active working structure, not a permanent identity lock
 
 **Stable releases:** none designated yet
 
-See the [repository tree](TREE.md) for the operational structure and the distinction between living works, legacy versions, project records, and the separate fragment archive.
+## Start here
 
-## Tree, not archive
+| Work | Question / territory | State |
+|---|---|---|
+| [Trash-End](trash-end/README.md) | The point of rupture and the genealogy connecting the works | active family |
+| [The Big Question](trash-end/the-big-question/README.md) | What remains when life, intelligence, and existence are pushed beyond the human center? | v17-rc1.1 under review |
+| [Anthropocentrism and pattern](trash-end/anthropocentrism/README.md) | Can we think beyond human patterns using only the patterns available to us? | essay seed |
+| [Consciousness](trash-end/consciousness/README.md) | What changes across animal, human, and artificial points of view? | essay seed |
+| [Alignment](trash-end/alignment/README.md) | Under what conditions could AI become continuation rather than mere succession? | essay seed |
+| [Aisthesis](trash-end/aisthesis/README.md) | How do perception, music, attraction, and biology turn pattern into experience? | two developed seeds |
+| [Synthesis](trash-end/synthesis/README.md) | What could reconcile biological experience and artificial continuation? | architectural seed |
+| [Computronium](trash-end/computronium/README.md) | What happens when matter is deliberately reorganized around computation? | architectural seed |
 
-This repository is the living structure of the writing: an author-level index, a current family, individual works, and the connections between them. It is closer to a tree or a galaxy than to a storage vault.
+## Read now
 
-The earlier web prototype titled *Archivio di Transizione* remains separate. Its four short texts are classified as fragments: they preserve an early stage of the inquiry but are not current works, release candidates, or settled positions. They are not included here as essays.
+- [The Big Question — Italian v17-rc1.1](trash-end/the-big-question/current/the-big-question-it-v17-rc1.1.md), the current comparison candidate.
+- [The Big Question — Italian v16-rc1.0](trash-end/the-big-question/current/the-big-question-it-v16-rc1.0.md), preserved for direct comparison.
+- [The Big Question — English v13](trash-end/the-big-question/legacy/en/essay-en-v13.md), the latest English branch, not yet aligned with the Italian revision.
+- [Aisthesis: music](trash-end/aisthesis/music.md) and [Aisthesis: attraction](trash-end/aisthesis/attraction.md), the first developed branches beyond the foundational essay.
 
-## Why Trash-End comes first
+## How the repository is organized
 
-Trash-End is the foundational family inside Essays. It begins with an intellectual rebellion against human incoherence, hypocrisy, and the biological and psychological filters that shape perception, morality, status, and ego. Meaning-dense films, books, and ideas did not resolve that conflict; they made its questions harder to ignore.
+- [`trash-end/`](trash-end/README.md) contains the current family of works.
+- Every work has its own README and clickable index, even when the text is still a seed.
+- `current/` contains complete candidates under active comparison.
+- `drafts/` contains unfinished editorial material.
+- `sources/` contains public-safe source maps and evidence boundaries.
+- `legacy/` contains previous versions and the map of how a work arrived at its current form.
+- [`project-records/`](trash-end/project-records/README.md) contains decisions, provenance, history, and repository migration records.
 
-*The Big Question* radicalizes the rupture by asking what life, intelligence, and existence mean once the human point of view is no longer treated as the natural center. A new essay seed on anthropocentrism and pattern then asks why the human center reappears even inside that attempt. Aisthesis, Synthesis, and Computronium branch from the same path through sensation, information, embodiment, computation, and possible continuation beyond biological form.
+See the complete [repository tree](TREE.md) and the [Trash-End architecture](trash-end/ARCHITECTURE.md).
 
-The sequence is therefore genealogical, not merely topical. Trash-End records why the questions began; the individual works follow where they led.
+## Tree, legacy, and fragments
 
-## Enter Trash-End
+This repository is the living tree, not a flat archive of old files. The complete version history of *The Big Question* remains available under [legacy](trash-end/the-big-question/legacy/README.md), but it no longer dominates the repository entrance.
 
-1. [Trash-End](trash-end/README.md) — the current family and its moment of rupture.
-2. [The Big Question](trash-end/the-big-question/README.md) — the foundational inquiry and its complete version history.
-3. [Anthropocentrism and pattern](trash-end/anthropocentrism/README.md) — why human patterns rebuild the center even when the inquiry tries to leave it.
-4. [Consciousness](trash-end/consciousness/README.md) — animal, human, and artificial experience without treating behavior, intelligence, and sentience as synonyms.
-5. [Alignment](trash-end/alignment/README.md) — the condition hidden inside the narrative of AI as the next step.
-6. [Aisthesis](trash-end/aisthesis/README.md) — perception, music, attraction, and the return to the biological interface.
-7. [Synthesis](trash-end/synthesis/README.md) — reconciliation between body and abstraction, biology and machine.
-8. [Computronium](trash-end/computronium/README.md) — the future-facing horizon of matter organized for computation.
+The earlier *Archivio di Transizione* website is a separate historical surface. Its four early texts are classified as fragments: they preserve the beginning of the inquiry but are not current works or release candidates.
 
-## Current reading path
+## Current boundary
 
-| Work | Status | Language | Direct link |
-|---|---|---|---|
-| The Big Question v17-rc1.1 | current comparison candidate | Italian | [Read](trash-end/the-big-question/current/the-big-question-it-v17-rc1.1.md) |
-| The Big Question v16-rc1.0 | previous comparison candidate | Italian | [Read](trash-end/the-big-question/current/the-big-question-it-v16-rc1.0.md) |
-| The Big Question v15 | preserved historical base | Italian | [Read](trash-end/the-big-question/legacy/it/essay-it-v15-gpt.md) |
-| The Big Question v13 | latest English draft | English | [Read](trash-end/the-big-question/legacy/en/essay-en-v13.md) |
-| Anthropocentrism and pattern | conceptual seed, title pending | Italian | [Open project](trash-end/anthropocentrism/README.md) |
-| Consciousness | conceptual seed, title pending | Italian | [Open project](trash-end/consciousness/README.md) |
-| Alignment | conceptual seed, title pending | Italian | [Open project](trash-end/alignment/README.md) |
-| Aisthesis: music | seed | Italian | [Read](trash-end/aisthesis/music.md) |
-| Aisthesis: attraction | seed | Italian | [Read](trash-end/aisthesis/attraction.md) |
-| Synthesis | conceptual seed | English | [Open project](trash-end/synthesis/README.md) |
-| Computronium | conceptual seed | English | [Open project](trash-end/computronium/README.md) |
+The material ranges from developed release candidates to early essay seeds. A visible branch means that its question and relationship to the wider project have been defined; it does not mean that the essay is finished or that its scientific claims have already passed final review.
 
-## The Big Question: Italian version history
-
-| Version | Status | Direct link | Main change |
-|---|---|---|---|
-| v17-rc1.1 | current comparison candidate | [Read](trash-end/the-big-question/current/the-big-question-it-v17-rc1.1.md) | Planarian, LLM, Landauer/CCC, and final-causality corrections |
-| v16-rc1.0 | previous comparison candidate | [Read](trash-end/the-big-question/current/the-big-question-it-v16-rc1.0.md) | Human-first introduction, internal index, stable chapter anchors |
-| v3 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v3.md) | Initial Italian structure |
-| v4 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v4.md) | RNA and bioelectric clarification |
-| v5 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v5.md) | Editorial restructuring |
-| v6 | historical duplicate | [Read](trash-end/the-big-question/legacy/it/essay-it-v6.md) | Byte-identical to v5 |
-| v7 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v7.md) | Lewis transition revised |
-| v8 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v8.md) | HADD block added |
-| v9 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v9.md) | References and citation markers |
-| v10 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v10.md) | Universal claims softened |
-| v11 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v11.md) | Westworld correction |
-| v12 | historical draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v12.md) | DeepMind source added |
-| v13 | superseded draft | [Read](trash-end/the-big-question/legacy/it/essay-it-v13.md) | Ambitious cross-framework bridge; language and epistemic defects remain |
-| v15 | preserved historical base | [Read](trash-end/the-big-question/legacy/it/essay-it-v15-gpt.md) | Full epistemic and editorial rewrite |
-
-## The Big Question: English version history
-
-| Version | Status | Direct link | Main change |
-|---|---|---|---|
-| v3 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v3.md) | Initial English structure |
-| v4 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v4.md) | RNA and bioelectric clarification |
-| v5 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v5.md) | Editorial restructuring |
-| v6 | historical duplicate | [Read](trash-end/the-big-question/legacy/en/essay-en-v6.md) | Byte-identical to v5 |
-| v7 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v7.md) | Nietzsche and *Blind Patriotism* |
-| v8 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v8.md) | HADD and belief systems |
-| v9 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v9.md) | References and citation markers |
-| v10 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v10.md) | Universal claims softened |
-| v11 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v11.md) | Westworld correction |
-| v12 | historical draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v12.md) | DeepMind source added |
-| v13 | current English draft | [Read](trash-end/the-big-question/legacy/en/essay-en-v13.md) | Latest English branch; not aligned with Italian v17 |
-
-The missing version numbers remain missing. The repository does not invent v1, v2, or a tracked v14 that was never published in the original history. Development artifacts are recorded separately inside the relevant work.
+No live-site or Cloudflare deployment is implied by a GitHub revision. Website publication remains a separate step.

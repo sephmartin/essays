@@ -5,6 +5,7 @@ Conceptually, this repository is a galaxy: works can branch, orbit one another, 
     Essays
     ├── README.md
     ├── TREE.md
+    ├── scripts/
     └── trash-end/
         ├── README.md
         ├── ARCHITECTURE.md
@@ -22,6 +23,11 @@ Conceptually, this repository is a galaxy: works can branch, orbit one another, 
         ├── computronium/
         ├── concepts/
         ├── project-records/
+        │   ├── README.md
+        │   ├── project-history.md
+        │   ├── decision-log.md
+        │   ├── conversation-sources.md
+        │   └── repository/
         └── social/
 
 ## What each level means

@@ -1,4 +1,6 @@
-# Repository audit
+# Repository architecture audit
+
+**Record type:** historical audit and migration baseline; not a reader entry point
 
 ## Current state after the July 16 review
 
