@@ -58,6 +58,22 @@ Il codice, qui, non va inteso per forza come software o come sequenza di istruzi
 
 ---
 
+## Il groove oltre l’umano
+
+Il groove è una parola umana e musicale. Il principio più generale che lo rende possibile, una struttura temporale capace di orientare o coordinare un sistema, attraversa però molte scale della vita.
+
+**Dato.** Alcuni animali hanno sincronizzato il movimento a un battito esterno in condizioni sperimentali. È stato osservato nel cacatua Snowball e nell’otaria californiana Ronan. Altre forme di coordinamento temporale compaiono nei cori animali, nei segnali luminosi e nel movimento collettivo. Questi risultati non dimostrano che tutte le specie sentano il groove come un essere umano, né che ogni sincronizzazione sia musicale. [Patel et al., 2009](https://doi.org/10.1016/j.cub.2009.03.038); [Cook et al., 2013](https://doi.org/10.1037/a0032345)
+
+**Dato.** Anche le piante rispondono a strutture vibratorie rilevanti per la loro ecologia. In *Arabidopsis thaliana*, la riproduzione delle vibrazioni prodotte dalla masticazione di un bruco ha preparato alcune difese chimiche e ha prodotto risposte differenti da quelle al vento o al canto di un insetto. Piante sottoposte a determinati stress possono inoltre emettere suoni ultrasonici classificabili. Questo mostra sensibilità e produzione di segnali fisici; non prova ascolto musicale, intenzione comunicativa o esperienza soggettiva. [Appel e Cocroft, 2014](https://doi.org/10.1007/s00442-014-2995-6); [Khait et al., 2023](https://doi.org/10.1016/j.cell.2023.03.009)
+
+**Analogia.** Dal corpo che balla alla colonia, dal tessuto in movimento alla foglia che prepara una difesa, una sequenza nel tempo può cambiare lo stato di un sistema. Chiamare tutto questo *groove* sarebbe una forzatura. Trattarlo come una famiglia di problemi legati a oscillazione, previsione, accoppiamento e risposta permette invece di collegare musica e biologia senza confonderle.
+
+**Speculazione.** Se un futuro substrato computazionale potesse riprodurre perfettamente un pattern ritmico, resterebbe da capire se avrebbe conservato anche ciò che quel pattern fa a un organismo. Il groove diventa così un test per il passaggio verso [Computronium](../computronium/README.md): codificare il tempo equivale a viverne la tensione e il rilascio?
+
+Le fonti e i limiti di questa diramazione sono raccolti in [Rhythm across life](sources/README.md).
+
+---
+
 ## Dalla vibrazione all’esperienza
 
 Una possibile diramazione del progetto:
@@ -126,6 +142,7 @@ Vuole costruire una mappa provvisoria di connessioni tra:
 
 - fisica del suono;
 - biologia e percezione;
+- vibrazioni e coordinamento temporale in animali, piante e collettivi cellulari;
 - emozione e memoria;
 - ritmo e sincronizzazione;
 - cultura e rituale;

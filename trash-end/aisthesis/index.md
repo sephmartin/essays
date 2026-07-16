@@ -14,6 +14,7 @@ The body is not restored as the center of the universe. It returns as interface,
 
 - [Quando l'informazione vibra](music.md) — music as vibration, bodily synchronization, expectation, memory, emotion, and social form.
 - [Attrazione: un'estetica del sentire](attraction.md) — attraction as multisensory orientation that can precede verbal explanation.
+- [Rhythm across life](sources/README.md) — sources and boundaries for animal synchronization, plant vibration responses, and biological timing.
 
 The two seeds share a structure but are not interchangeable. Music organizes vibration and time through a perceiving body. Attraction organizes attention and orientation through multiple signals, histories, and contexts.
 

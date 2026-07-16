@@ -53,6 +53,14 @@ Current AI systems reorganize information on physical hardware. Advanced imaging
 
 **Speculation.** A model might one day participate in substrate continuation. A scan, reconstruction, or present digital twin does not already continue the organism or person.
 
+## Rhythm as a substrate test
+
+**Evidence.** Animal entrainment, selective plant responses to vibration, and synchronization in collective cell motion show that biological information processing can depend on temporal structure and physical coupling. The evidence and its limits are collected in [Aisthesis: Rhythm across life](../aisthesis/sources/README.md).
+
+**Analogy.** Computation also depends on ordered transitions, clocks, feedback, and delay. This is a structural connection, not proof that living systems are computers or that every biological rhythm is music.
+
+**Speculation.** A future substrate might reproduce the abstract pattern of a groove without reproducing the body that anticipates, resists, and is moved by it. The question for Computronium is therefore not only how much matter can compute, but what forms of timing and response would have to survive for computation to remain experience.
+
 ## The boundary that must remain visible
 
 Computronium concerns computation. It does not automatically supply:

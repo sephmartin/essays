@@ -6,6 +6,14 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Accepted decisions
 
+### Extend the groove inquiry across living systems
+
+- **Status:** EXPLICIT_DECISION
+- **Decision:** The music branch should examine how temporally structured vibration and synchronization operate beyond humans, including animals, plants, and other biological scales, and should connect this inquiry to Computronium.
+- **Boundary:** Groove remains a human musical and experiential term. Animal entrainment, plant vibration responses, and cellular coordination are evidence for related temporal phenomena, not evidence that every living system experiences music.
+- **Implementation:** Aisthesis now includes a sourced “Rhythm across life” map; the music seed separates data, analogy, and speculation; Computronium uses groove as a substrate-continuity test.
+- **Source:** Current user direction, 2026-07-16.
+
 ### Separate the living tree from the fragment archive
 
 - **Status:** EXPLICIT_DECISION

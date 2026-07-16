@@ -10,7 +10,8 @@ Computronium is the horizon where matter is deliberately reorganized for computa
 1. [Established physical-computation context](#established-context)
 2. [The proto-computronic present](#the-proto-computronic-present)
 3. [Relation to The Big Question](#relation-to-the-big-question)
-4. [Boundaries](#boundaries)
+4. [Rhythm as a substrate test](#rhythm-as-a-substrate-test)
+5. [Boundaries](#boundaries)
 
 <a id="established-context"></a>
 ## Established context
@@ -35,6 +36,15 @@ This is an interpretation, not a measurement.
 *The Big Question* already contains the narrative sequence `RNA -> cells -> brains -> us -> AI` and a speculative return from ego toward computation and information. Computronium gives a material name to the future-facing edge of that inquiry without validating the sequence as an evolutionary law.
 
 Whether the term appears once in *The Big Question* 1.0 remains an open editorial decision. The full concept belongs here rather than becoming a new pillar inside the older essay.
+
+<a id="rhythm-as-a-substrate-test"></a>
+## Rhythm as a substrate test
+
+Biological systems do not process information outside time. Animal movement, plant responses to ecologically relevant vibrations, and coordinated cell migration all depend on physical timing and coupling. The evidence is collected in [Aisthesis: Rhythm across life](../aisthesis/sources/README.md).
+
+**Analogy.** This makes rhythm a bridge between biological organization and computation. Both can depend on ordered state changes, feedback, synchronization, and delay.
+
+**Speculation.** A computational substrate could encode a groove exactly while lacking the body that is moved by it. Computronium therefore has to ask not only how much matter can compute, but which relations among timing, sensation, and response would survive a change of substrate.
 
 <a id="boundaries"></a>
 ## Boundaries

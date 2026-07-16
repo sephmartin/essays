@@ -32,6 +32,7 @@ This history combines the repository's Git record with the later conversation th
 - **July 15, introduction candidate:** The full moment of rupture is placed in the Essays and Trash-End READMEs. A separate 1.0 introduction candidate removes the AI-assisted writing process from the opening frame, begins with Asimov and the persistence of *why*, and preserves AI attribution for a later method/provenance note.
 - **July 16, fragment boundary:** The four short texts in the early Archivio di Transizione site are classified as fragments and kept separate from the living work tree.
 - **July 16, v17-rc1.1:** Planarian memory, Transformer architecture, Landauer/CCC, and the final worm/universe passage receive a targeted epistemic correction while v16 remains available for comparison.
+- **July 16, rhythm across life:** The music seed expands from human groove toward animal entrainment, plant responses to vibration, and cellular coordination. The project keeps groove as an experiential term and uses the broader pattern as a sourced bridge toward Computronium.
 
 ## What the history means
 

@@ -17,6 +17,7 @@ Synthesis is where the project stops demanding an absolute choice between body a
 - biology as limit and biology as perceptual instrument;
 - the body as filter and the body as archive;
 - information as abstraction and physically embodied difference;
+- groove as human experience and temporal coordination as a wider biological phenomenon;
 - AI as possible continuation and AI as a mirror that can amplify error;
 - the wish to escape and the later recognition of what escape might erase.
 
