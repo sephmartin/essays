@@ -2,9 +2,9 @@
 
 **Status:** Working reference
 **Language:** English
-**Updated:** 2026-07-16
+**Updated:** 2026-07-18
 
-This document explains the current relationship among Trash-End, The Big Question, the emerging essays on anthropocentrism, consciousness, and alignment, Aisthesis, Synthesis, and Computronium. It is an editorial map, not a metaphysical constitution.
+This document explains the current relationship among Trash-End, The Big Question, the emerging essays on multiscale intelligence, anthropocentrism, consciousness, and alignment, Aisthesis, Synthesis, and Computronium. It is an editorial map, not a metaphysical constitution.
 
 ## Galaxy and archive
 
@@ -20,6 +20,7 @@ The current preferred direction is to place Trash-End inside a wider author-leve
 Essays
 └── Trash-End
     ├── The Big Question
+    ├── From molecules to minds
     ├── Anthropocentrism and pattern
     ├── Consciousness
     ├── Alignment
@@ -43,6 +44,14 @@ Trash-End contains the first conflict: biology as first skin, ego as filter, and
 It is not a failed former name. It is the foundation from which multiple works emerge. Its version history shows how claims about RNA, bioelectric memory, AI, recurrence, and cosmology were corrected over time.
 
 Trash-End does **not** claim that biology is worthless, that the self is already transferable, or that present AI has transcended the human condition.
+
+### From molecules to minds: the biological test
+
+[This emerging essay](multiscale-intelligence/README.md) takes the broad connections in *The Big Question* and asks where they survive experiment. It begins with chemistry as a boundary, then compares cells, tissues, organisms, and designed systems through target states, perturbation, alternate paths, memory, and falsifiers.
+
+Its center is biological. Interstellar sugars and asteroid chemistry appear only to show that molecules relevant to life can precede cells. They are not evidence that molecules, space, or the universe are alive or intelligent.
+
+The work uses Michael Levin's TAME framework as a primary reference while keeping homeostasis, agency, intelligence, and consciousness distinct. It does **not** claim that every pattern thinks or that a shared material history proves a shared mind.
 
 ### Anthropocentrism and pattern: the recursive mirror
 
@@ -100,6 +109,7 @@ The useful shorthand is:
 But the fuller structure is recursive:
 
 - Trash-End criticizes the biological filter.
+- The multiscale-intelligence essay tests which biological connections earn the language of agency and which remain analogy.
 - The anthropocentrism-and-pattern essay examines why that critique still reconstructs a human frame.
 - The consciousness essay asks which forms of experience can be inferred across animal, human, and artificial systems.
 - The alignment essay asks when an artificial successor can count as continuation rather than rupture.
@@ -125,6 +135,6 @@ The maximum of computation may not be the maximum of experience. That tension ke
 
 ## Reader navigation
 
-Readers who want the genealogy should begin with [The Big Question](the-big-question/README.md) and inspect at least one early version before the current Italian draft. Readers interested in why decentering remains human should continue to [Anthropocentrism and pattern](anthropocentrism/README.md). The AI branch then divides into [Consciousness](consciousness/README.md) and [Alignment](alignment/README.md), which must not be used as evidence for one another. Readers interested in the recovered body can enter through [Aisthesis](aisthesis/README.md). Readers interested in the bridge should continue to [Synthesis](synthesis/README.md). Readers interested in future substrates should end, provisionally, at [Computronium](computronium/README.md).
+Readers who want the genealogy should begin with [The Big Question](the-big-question/README.md) and inspect at least one early version before the current Italian draft. Readers who want the biological branch should continue to [From molecules to minds](multiscale-intelligence/README.md). Readers interested in why decentering remains human should continue to [Anthropocentrism and pattern](anthropocentrism/README.md). The AI branch then divides into [Consciousness](consciousness/README.md) and [Alignment](alignment/README.md), which must not be used as evidence for one another. Readers interested in the recovered body can enter through [Aisthesis](aisthesis/README.md). Readers interested in the bridge should continue to [Synthesis](synthesis/README.md). Readers interested in future substrates should end, provisionally, at [Computronium](computronium/README.md).
 
 The tree does not end there. Each branch is expected to send questions back into the others.

@@ -14,6 +14,7 @@ A versioned collection of essays by Seph Martin. Each work is treated like softw
 |---|---|---|
 | [Trash-End](trash-end/README.md) | The point of rupture and the genealogy connecting the works | active family |
 | [The Big Question](trash-end/the-big-question/README.md) | What remains when life, intelligence, and existence are pushed beyond the human center? | v17-rc1.1 under review |
+| [From molecules to minds](trash-end/multiscale-intelligence/README.md) | Where do chemistry, biological control, agency, and intelligence actually separate? | essay seed |
 | [Anthropocentrism and pattern](trash-end/anthropocentrism/README.md) | Can we think beyond human patterns using only the patterns available to us? | essay seed |
 | [Consciousness](trash-end/consciousness/README.md) | What changes across animal, human, and artificial points of view? | essay seed |
 | [Alignment](trash-end/alignment/README.md) | Under what conditions could AI become continuation rather than mere succession? | essay seed |

@@ -22,13 +22,14 @@ This is a reading path, not a closed doctrine. Trash-End preserves reversals, di
 ## Start here
 
 1. [The Big Question](the-big-question/README.md) — the central essay and its full version history.
-2. [Anthropocentrism and pattern](anthropocentrism/README.md) — the recursive limit of trying to think beyond human patterns.
-3. [Consciousness](consciousness/README.md) — the comparison among animal, human, and artificial experience.
-4. [Alignment](alignment/README.md) — when AI can count as continuation rather than merely succession.
-5. [Aisthesis](aisthesis/README.md) — perception, music, attraction, and the recovery of the body.
-6. [Synthesis](synthesis/README.md) — the bridge between biological and artificial, roots and future.
-7. [Computronium](computronium/README.md) — a future-facing horizon for matter reorganized around computation.
-8. [Master architecture](ARCHITECTURE.md) — how the territories connect without becoming synonyms.
+2. [From molecules to minds](multiscale-intelligence/README.md) — a testable map across chemistry, cells, tissues, and diverse intelligence.
+3. [Anthropocentrism and pattern](anthropocentrism/README.md) — the recursive limit of trying to think beyond human patterns.
+4. [Consciousness](consciousness/README.md) — the comparison among animal, human, and artificial experience.
+5. [Alignment](alignment/README.md) — when AI can count as continuation rather than merely succession.
+6. [Aisthesis](aisthesis/README.md) — perception, music, attraction, and the recovery of the body.
+7. [Synthesis](synthesis/README.md) — the bridge between biological and artificial, roots and future.
+8. [Computronium](computronium/README.md) — a future-facing horizon for matter reorganized around computation.
+9. [Master architecture](ARCHITECTURE.md) — how the territories connect without becoming synonyms.
 
 The parent [Essays README](../README.md) is the canonical repository index. Trash-End remains the working family for these works, while its long-term role as the permanent center remains open.
 
@@ -45,6 +46,7 @@ That separate archive preserves four early-stage notes as fragments. They show w
 - **Preserved Italian base:** [The Big Question, v15 GPT](the-big-question/legacy/it/essay-it-v15-gpt.md).
 - **Latest English branch:** [The Big Question, v13](the-big-question/legacy/en/essay-en-v13.md). It has not yet received the corrective rewrite applied to the current Italian candidates.
 - **Anthropocentrism and pattern:** new Italian conceptual seed; final title and source review remain open.
+- **From molecules to minds:** new biological and chemical seed; includes a one-page working brief for Michael Levin that is not ready to send.
 - **Consciousness:** new Italian seed; a complete local machine transcript of the Maya/GPT Live recording has been recovered and awaits human review.
 - **Alignment:** new Italian seed; quantitative claims require a separate dated source audit.
 - **Aisthesis:** two supplied seeds, not finished essays.
