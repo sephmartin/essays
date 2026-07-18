@@ -5,7 +5,13 @@ The project is better represented as a recursive graph than as a hierarchy.
 ```mermaid
 flowchart TD
     M["Matter"] --> I["Information and pattern"]
+    M --> CH["Chemical organization"]
+    CH --> MOL["Molecules relevant to life"]
+    MOL --> B
     I --> B["Biological organization"]
+    B --> BI["Multiscale competence: testable"]
+    BI --> AG["Agency: open thresholds"]
+    AG --> C
     B --> S["First skin"]
     S --> HP["Human pattern library"]
     HP --> P["Perception / Aisthesis"]
@@ -41,6 +47,8 @@ flowchart TD
 ## Important edges
 
 - **Matter → information:** physical states can carry information; this does not mean all matter computes or experiences.
+- **Chemistry → biology:** molecules relevant to life can form without cells; chemical continuity does not by itself establish life, agency, or intelligence.
+- **Biology → multiscale competence:** cells and tissues can be tested for target maintenance, correction after perturbation, alternate paths, and memory without presuming consciousness.
 - **Biology → first skin:** the body is both constraint and instrument.
 - **First skin → human pattern library:** perception and culture make some regularities salient while leaving others difficult or impossible to recognize.
 - **Human patterns ↔ AI:** AI can intensify inherited human categories or expose representations that are not intuitive to an individual observer; neither direction guarantees escape from anthropocentrism.

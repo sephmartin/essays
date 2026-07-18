@@ -37,6 +37,7 @@ This history combines the repository's Git record with the later conversation th
 - **July 16, consciousness seed:** A second Maya-related source is recovered: a 66-minute recorded conversation between Maya and GPT Live. A separate essay will compare animal, human, and artificial consciousness; raw media and transcript remain local.
 - **July 16, alignment seed:** The AI-as-next-step narrative becomes explicitly conditional on alignment. A separate work will distinguish beneficial continuation from mere succession and will add probabilities only through dated, decomposed, sourceable estimates.
 - **July 16, apophenia correction:** HADD and apophenia are separated; the Newton example is corrected from “solving pi” to using infinite-series methods to calculate it. These changes are recorded for a later candidate rather than written over the author’s current local v17 edits.
+- **July 18, multiscale-intelligence seed:** The planarian and biological branch becomes a separate work provisionally titled *Dalle molecole alle menti*. Interstellar eritrulosio and Bennu sugars define the chemical boundary without being treated as evidence of cells or intelligence. Michael Levin's TAME framework becomes the main comparison, and a falsifier-oriented matrix plus a one-page Levin brief are added as working material.
 
 ## What the history means
 

@@ -14,6 +14,10 @@ Conceptually, this repository is a galaxy: works can branch, orbit one another, 
         │   ├── drafts/
         │   ├── sources/
         │   └── legacy/
+        ├── multiscale-intelligence/
+        │   ├── README.md
+        │   ├── levin-brief-draft.md
+        │   └── sources/
         ├── anthropocentrism/
         ├── consciousness/
         ├── alignment/

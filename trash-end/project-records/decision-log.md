@@ -190,6 +190,13 @@ The labels below preserve provenance rather than making every useful formulation
 | Pun every branch for consistency | `DISCARDED_OPTION` | Explicitly rejected; Trash-End remains the only pun |
 | Treat present AI as literal computronium | `DISCARDED_OPTION` | Collapses present infrastructure into a speculative physical limit |
 
+### Create a focused biological branch for Levin-related work
+
+- **Status:** `EXPLICIT_DIRECTION`, working title still open.
+- **Decision:** Develop the biological and limited chemical branch outside *The Big Question*, while leaving only a short future orientation box in the main essay. Prepare a separate one-page brief for Michael Levin instead of sending the entire essay again.
+- **Rationale:** The broad connections need a falsifier-oriented test at each scale. Chemistry belongs as a boundary; consciousness, cosmology, alignment, and Aisthesis retain separate homes.
+- **Source:** Current user direction, 2026-07-18.
+
 ## Open questions
 
 - **Status of The Big Question:** Which version, after scientific review, becomes the first stable release?

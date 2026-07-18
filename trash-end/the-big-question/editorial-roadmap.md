@@ -95,3 +95,9 @@ Review primary sources and wording for:
 5. Designate Italian `1.0` and create a Git tag.
 6. Produce an English version from the frozen Italian source, not from English v13.
 7. Replace the older live-site text only after the source and deployment path are verified.
+
+## Companion branch, not a 1.0 blocker
+
+The planarian and morphogenesis questions now have a separate home in [From molecules to minds](../multiscale-intelligence/README.md). *The Big Question* may later receive one short orientation box that points to the branch, but the new essay does not need to be completed before the 1.0 release.
+
+The box must distinguish chemistry, cells, agency, intelligence, and consciousness. It will be added only in a candidate after v17, so the author's current v17 edits remain untouched.
