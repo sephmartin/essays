@@ -15,8 +15,7 @@ Questo saggio restringe una delle intuizioni più ampie di *The Big Question*: i
 5. [La griglia di falsificabilità](#la-griglia-di-falsificabilita)
 6. [Confini del saggio](#confini-del-saggio)
 7. [Relazione con The Big Question](#relazione-con-the-big-question)
-8. [Nota breve per Michael Levin](#nota-breve-per-michael-levin)
-9. [Fonti](sources/README.md)
+8. [Fonti](sources/README.md)
 
 <a id="la-domanda"></a>
 ## La domanda
@@ -108,8 +107,3 @@ Il riquadro futuro non dovrà concludere che verme, cellula, AI e universo siano
 > Se sistemi molto diversi raggiungono stati-obiettivo, correggono deviazioni e conservano tracce del passato, quali prove ci autorizzano a chiamare queste capacità omeostasi, agenzia, intelligenza o mente?
 
 L'inserimento nel saggio principale avverrà soltanto in una nuova candidata, senza modificare retroattivamente v16 o le correzioni dell'autore a v17.
-
-<a id="nota-breve-per-michael-levin"></a>
-## Nota breve per Michael Levin
-
-Una [bozza inglese di una pagina](levin-brief-draft.md) isola il nucleo della proposta e tre domande. Non è ancora pronta per l'invio. Prima deve superare una verifica delle fonti e una revisione che elimini ciò che TAME ha già formulato meglio.
