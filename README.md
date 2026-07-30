@@ -8,6 +8,12 @@ A versioned collection of essays by Seph Martin. Each work is treated like softw
 
 **Stable releases:** none designated yet
 
+## Authorship and rights
+
+The texts in this repository are developed with AI assistance and selected, arranged, revised, and published under the editorial direction of **Seph Martin (Giuseppe Petrini)**.
+
+Copyright © 2026 Giuseppe Petrini, publishing as Seph Martin. All rights reserved to the extent permitted by applicable law. The repository is public for reading, citation, critical review, and transparent version history; its contents are not released under an open-source or Creative Commons license. When citing the texts, credit **Seph Martin (Giuseppe Petrini)** and link to the canonical work or to [trash-end.space](https://trash-end.space/).
+
 ## Start here
 
 | Work | Question / territory | State |
@@ -38,6 +44,7 @@ A versioned collection of essays by Seph Martin. Each work is treated like softw
 - `sources/` contains public-safe source maps and evidence boundaries.
 - `legacy/` contains previous versions and the map of how a work arrived at its current form.
 - [`project-records/`](trash-end/project-records/README.md) contains decisions, provenance, history, and repository migration records.
+- Private correspondence and outreach drafts are kept outside the public repository.
 
 See the complete [repository tree](TREE.md) and the [Trash-End architecture](trash-end/ARCHITECTURE.md).
 

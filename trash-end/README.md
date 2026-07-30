@@ -46,7 +46,7 @@ That separate archive preserves four early-stage notes as fragments. They show w
 - **Preserved Italian base:** [The Big Question, v15 GPT](the-big-question/legacy/it/essay-it-v15-gpt.md).
 - **Latest English branch:** [The Big Question, v13](the-big-question/legacy/en/essay-en-v13.md). It has not yet received the corrective rewrite applied to the current Italian candidates.
 - **Anthropocentrism and pattern:** new Italian conceptual seed; final title and source review remain open.
-- **From molecules to minds:** new biological and chemical seed; includes a one-page working brief for Michael Levin that is not ready to send.
+- **From molecules to minds:** new biological and chemical seed; its evidence and falsifiability review remains in progress.
 - **Consciousness:** new Italian seed; a complete local machine transcript of the Maya/GPT Live recording has been recovered and awaits human review.
 - **Alignment:** new Italian seed; quantitative claims require a separate dated source audit.
 - **Aisthesis:** two supplied seeds, not finished essays.
