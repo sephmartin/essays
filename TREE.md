@@ -11,6 +11,7 @@ Conceptually, this repository is a galaxy: works can branch, orbit one another, 
         ├── the-big-question/
         │   ├── README.md
         │   ├── current/
+        │   ├── chapters/
         │   ├── drafts/
         │   ├── sources/
         │   └── legacy/
@@ -38,6 +39,7 @@ Conceptually, this repository is a galaxy: works can branch, orbit one another, 
 - **Trash-End** is the current family and point of origin. It is not assumed to be the permanent center of every future work.
 - **Works** have their own README, status, reading path, and source boundaries.
 - **Current** contains complete candidates under active comparison.
+- **Chapters** contains individual reading pages extracted from a complete candidate, including introduction and references.
 - **Drafts** contains unfinished editorial material.
 - **Sources** contains public-safe source manifests and distilled development records.
 - **Legacy** preserves earlier versions without rewriting or inventing history.

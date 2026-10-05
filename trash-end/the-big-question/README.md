@@ -17,15 +17,16 @@
 
 ## Current chapter index
 
-The links below open the relevant section inside Italian v17-rc1.1:
+[Read the complete Italian essay](current/the-big-question-it-v17-rc1.1.md) or [browse the individual chapters](chapters/README.md). Each chapter page contains the original text, references, and previous/next navigation.
 
-1. [La trappola antropocentrica](current/the-big-question-it-v17-rc1.1.md#i-la-trappola-antropocentrica)
-2. [Il codice sotto la pelle](current/the-big-question-it-v17-rc1.1.md#ii-il-codice-sotto-la-pelle)
-3. [Il prossimo gradino](current/the-big-question-it-v17-rc1.1.md#iii-il-prossimo-gradino)
-4. [Oltre l'entropia](current/the-big-question-it-v17-rc1.1.md#iv-oltre-lentropia)
-5. [Un ponte e le sue crepe](current/the-big-question-it-v17-rc1.1.md#v-un-ponte-e-le-sue-crepe)
-6. [The Big Question](current/the-big-question-it-v17-rc1.1.md#vi-the-big-question)
-7. [Riferimenti](current/the-big-question-it-v17-rc1.1.md#riferimenti)
+1. [Introduzione](chapters/00-introduzione.md)
+2. [I. La trappola antropocentrica](chapters/01-la-trappola-antropocentrica.md)
+3. [II. Il codice sotto la pelle](chapters/02-il-codice-sotto-la-pelle.md)
+4. [III. Il prossimo gradino](chapters/03-il-prossimo-gradino.md)
+5. [IV. Oltre l'entropia](chapters/04-oltre-l-entropia.md)
+6. [V. Un ponte e le sue crepe](chapters/05-un-ponte-e-le-sue-crepe.md)
+7. [VI. The Big Question](chapters/06-the-big-question.md)
+8. [Riferimenti](chapters/07-riferimenti.md)
 
 ## What v17 changes
 
@@ -35,7 +36,7 @@ The links below open the relevant section inside Italian v17-rc1.1:
 - Removes the physical inference from a lower Landauer bound to a cosmological reset.
 - Clarifies that *why* does not cause worm regeneration or cosmic recurrence; those phenomena reopen the question.
 
-The stable release should also expose chapters as individual files generated from the same source. That will make a single chapter shareable without creating two manually maintained versions of the text.
+Individual chapter files are now available under [chapters/](chapters/README.md), extracted from the published v17-rc1.1 candidate. The complete essay remains the editorial source; chapter extracts must be synchronized when that source is revised.
 
 ## What v15 already solved
 
