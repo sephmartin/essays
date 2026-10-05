@@ -4,6 +4,8 @@
 
 [← III. Il prossimo gradino](03-il-prossimo-gradino.md) · [Indice dei capitoli](README.md) · [Saggio completo](../current/the-big-question-it-v17-rc1.1.md#iv-oltre-lentropia) · [V. Un ponte e le sue crepe →](05-un-ponte-e-le-sue-crepe.md)
 
+[English](en/04-beyond-entropy.md)
+
 ---
 
 Ma c'è un limite. O no?

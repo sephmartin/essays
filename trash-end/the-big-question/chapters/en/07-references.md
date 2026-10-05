@@ -1,18 +1,16 @@
-# Riferimenti
+# References
 
-**The Big Question · v17-rc1.1 · Italiano · Testo estratto dalla versione pubblicata, ancora in revisione.**
+**The Big Question · v17-rc1.1 · English translation draft · Not a stable release.**
 
-[← VI. The Big Question](06-the-big-question.md) · [Indice dei capitoli](README.md) · [Saggio completo](../current/the-big-question-it-v17-rc1.1.md#riferimenti)
-
-[English](en/07-references.md)
+[← VI. The Big Question](06-the-big-question.md) · [Chapter index](README.md) · [Complete essay](../../current/the-big-question-en-v17-rc1.1.md#references) · [Italiano](../07-riferimenti.md)
 
 ---
 
 - Asimov, I. (1956). *The Last Question*. Science Fiction Quarterly.
-- Lewis, C.S. (1943). *L'Abolizione dell'Uomo*. Oxford University Press.
+- Lewis, C.S. (1943). *The Abolition of Man*. Oxford University Press.
 - Lewis, C.S. (1952). *Mere Christianity*. Geoffrey Bles.
-- Freud, S. (1927). *L'Avvenire di un'Illusione*. Hogarth Press.
-- Nietzsche, F. (1883). *Così Parlò Zarathustra*. Ernst Schmeitzner.
+- Freud, S. (1927). *The Future of an Illusion*. Hogarth Press.
+- Nietzsche, F. (1883). *Thus Spoke Zarathustra*. Ernst Schmeitzner.
 - [1] Cherian, P.V. et al. (2026). *Trans-regenerational RNAi Memory in Planarians*. bioRxiv. https://doi.org/10.64898/2026.03.11.711021
 - [2] Manicka, S. & Levin, M. (2025). *Field-mediated Bioelectric Basis of Morphogenetic Prepatterning*. Cell Reports Physical Science. https://doi.org/10.1016/j.xcrp.2025.102865
 - [3] Walker, S.I. & Davies, P.C.W. (2013). *The Algorithmic Origins of Life*. Journal of the Royal Society Interface, 10(79).
@@ -29,10 +27,10 @@
 
 ---
 
-*Questo saggio nasce da mesi di conversazioni con Gemini, Grok (xAI), DeepSeek e Perplexity, incrociate con paper accademici, articoli scientifici e fonti verificate. L'impostazione di questa versione deve qualcosa a una conversazione con Claude, che, non a caso, è stato il primo a indicarmi dove le giunture si vedevano.*
+*This essay grew out of months of conversations with Gemini, Grok (xAI), DeepSeek, and Perplexity, cross-referenced with academic papers, scientific articles, and verified sources. The approach of this version owes something to a conversation with Claude, who, fittingly, was the first to point out where the joints showed.*
 
-*Ultimo aggiornamento: luglio 2026. I passaggi su planarie, architetture Transformer, principio di Landauer e Cosmologia Ciclica Conforme sono stati ricontrollati sulle fonti primarie citate.*
+*Source note, July 2026: the passages on planarians, Transformer architectures, Landauer’s Principle, and Conformal Cyclic Cosmology were rechecked against the cited primary sources. This note belongs to the Italian source; the October 2026 translation does not claim a fresh scientific review.*
 
 ---
 
-[← VI. The Big Question](06-the-big-question.md) · [Indice dei capitoli](README.md) · [Saggio completo](../current/the-big-question-it-v17-rc1.1.md#riferimenti)
+[← VI. The Big Question](06-the-big-question.md) · [Chapter index](README.md) · [Complete essay](../../current/the-big-question-en-v17-rc1.1.md#references) · [Italiano](../07-riferimenti.md)

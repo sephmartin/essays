@@ -32,7 +32,7 @@ Copyright © 2026 Giuseppe Petrini, publishing as Seph Martin. All rights reserv
 
 - [The Big Question — Italian v17-rc1.1](trash-end/the-big-question/current/the-big-question-it-v17-rc1.1.md), the current comparison candidate.
 - [The Big Question — Italian v16-rc1.0](trash-end/the-big-question/current/the-big-question-it-v16-rc1.0.md), preserved for direct comparison.
-- [The Big Question — English v13](trash-end/the-big-question/legacy/en/essay-en-v13.md), the latest English branch, not yet aligned with the Italian revision.
+- [The Big Question — English v17-rc1.1](trash-end/the-big-question/current/the-big-question-en-v17-rc1.1.md), a translation draft aligned with the published Italian v17; also available as [individual English chapters](trash-end/the-big-question/chapters/en/README.md).
 - [Aisthesis: music](trash-end/aisthesis/music.md) and [Aisthesis: attraction](trash-end/aisthesis/attraction.md), the first developed branches beyond the foundational essay.
 
 ## How the repository is organized

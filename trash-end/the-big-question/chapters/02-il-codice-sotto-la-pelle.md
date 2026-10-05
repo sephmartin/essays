@@ -4,6 +4,8 @@
 
 [← I. La trappola antropocentrica](01-la-trappola-antropocentrica.md) · [Indice dei capitoli](README.md) · [Saggio completo](../current/the-big-question-it-v17-rc1.1.md#ii-il-codice-sotto-la-pelle) · [III. Il prossimo gradino →](03-il-prossimo-gradino.md)
 
+[English](en/02-the-code-beneath-the-skin.md)
+
 ---
 
 Poi mi capitò una notizia su una rigenerazione indotta in alcuni animali. Aprì una domanda che non riuscii a chiudere: quali animali riescono già a rigenerare il cervello? Andai a cercare e trovai le planarie, piccoli vermi piatti capaci di ricostruire la testa e il sistema nervoso a partire da frammenti del corpo.

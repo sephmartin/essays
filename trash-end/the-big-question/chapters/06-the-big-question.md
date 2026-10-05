@@ -4,6 +4,8 @@
 
 [← V. Un ponte e le sue crepe](05-un-ponte-e-le-sue-crepe.md) · [Indice dei capitoli](README.md) · [Saggio completo](../current/the-big-question-it-v17-rc1.1.md#vi-the-big-question) · [Riferimenti →](07-riferimenti.md)
 
+[English](en/06-the-big-question.md)
+
 ---
 
 Eccoci qui. Il filo che è partito da Lewis e dalla religione finisce da tutt'altra parte, anche se "finisce" è forse la parola sbagliata, dato che niente qui si risolve davvero.

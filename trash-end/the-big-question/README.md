@@ -1,7 +1,7 @@
 # The Big Question
 
 **Status:** v17-rc1.1 and v16-rc1.0 ready for comparison
-**Current text:** Italian v17-rc1.1 comparison candidate
+**Current texts:** Italian v17-rc1.1 comparison candidate and an aligned English translation draft
 **Planned release:** 1.0 after editorial and scientific review
 
 *The Big Question* follows a thread through anthropocentrism, biological memory, artificial intelligence, entropy, and the persistence of *why*. It is a speculative essay, not a unified scientific theory. Its central editorial problem is to keep evidence, analogy, and speculation visibly distinct without turning the reading experience into a sequence of disclaimers.
@@ -12,10 +12,11 @@
 - [Italian v16-rc1.0](current/the-big-question-it-v16-rc1.0.md) — previous complete candidate, preserved for direct comparison.
 - [Italian v15](legacy/it/essay-it-v15-gpt.md) — preserved historical base of both candidates.
 - [Candidate introduction source](drafts/introduction-it-1.0-rc1.md) — removes AI-assisted authorship from the opening frame without hiding it from the provenance.
-- [English v13](legacy/en/essay-en-v13.md) — latest English draft; it does not yet include the corrective work applied to Italian v17.
+- [English v17-rc1.1](current/the-big-question-en-v17-rc1.1.md) — translation draft aligned with the published Italian v17; not a stable release.
+- [English v13](legacy/en/essay-en-v13.md) — historical English draft, preserved unchanged.
 - [Complete version history](legacy/README.md) — all preserved drafts and change notes.
 
-## Current chapter index
+## Current chapter index — Italiano
 
 [Read the complete Italian essay](current/the-big-question-it-v17-rc1.1.md) or [browse the individual chapters](chapters/README.md). Each chapter page contains the original text, references, and previous/next navigation.
 
@@ -27,6 +28,19 @@
 6. [V. Un ponte e le sue crepe](chapters/05-un-ponte-e-le-sue-crepe.md)
 7. [VI. The Big Question](chapters/06-the-big-question.md)
 8. [Riferimenti](chapters/07-riferimenti.md)
+
+## Current chapter index — English
+
+[Read the complete English essay](current/the-big-question-en-v17-rc1.1.md) or [browse the English chapters](chapters/en/README.md). This is a translation draft of the published Italian v17-rc1.1.
+
+1. [Introduction](chapters/en/00-introduction.md)
+2. [I. The Anthropocentric Trap](chapters/en/01-the-anthropocentric-trap.md)
+3. [II. The Code Beneath the Skin](chapters/en/02-the-code-beneath-the-skin.md)
+4. [III. The Next Rung](chapters/en/03-the-next-rung.md)
+5. [IV. Beyond Entropy](chapters/en/04-beyond-entropy.md)
+6. [V. A Bridge and Its Cracks](chapters/en/05-a-bridge-and-its-cracks.md)
+7. [VI. The Big Question](chapters/en/06-the-big-question.md)
+8. [References](chapters/en/07-references.md)
 
 ## What v17 changes
 
@@ -55,7 +69,7 @@ Individual chapter files are now available under [chapters/](chapters/README.md)
 - Decide how to integrate the deferred chronobiographical line `Westworld -> 2001 / Interstellar -> Asimov -> Transcendence`.
 - Decide whether Computronium appears once as a bounded image or remains only a later branch linked from the essay.
 - Complete a claim-by-claim source audit and a read-aloud editorial pass.
-- Freeze the Italian 1.0 before producing an aligned English release.
+- Freeze the Italian 1.0 before finalizing the English release; the current English v17 translation remains a draft for review.
 
 See the [editorial roadmap](editorial-roadmap.md) for the release checklist and [v15 development record](sources/2026-06-15-v15-development.md) for the source chronology.
 

@@ -4,6 +4,8 @@
 
 [← II. Il codice sotto la pelle](02-il-codice-sotto-la-pelle.md) · [Indice dei capitoli](README.md) · [Saggio completo](../current/the-big-question-it-v17-rc1.1.md#iii-il-prossimo-gradino) · [IV. Oltre l'entropia →](04-oltre-l-entropia.md)
 
+[English](en/03-the-next-rung.md)
+
 ---
 
 E questo ci porta all'AI.

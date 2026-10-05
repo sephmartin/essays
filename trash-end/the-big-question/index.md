@@ -19,7 +19,9 @@ The essay is not one file pretending to be timeless. Its argument changes visibl
 - [Italian v17-rc1.1](current/the-big-question-it-v17-rc1.1.md) — current epistemically tightened candidate.
 - [Italian v16-rc1.0](current/the-big-question-it-v16-rc1.0.md) — previous candidate preserved for comparison.
 - [Italian v15 GPT](legacy/it/essay-it-v15-gpt.md) — historical base of both candidates.
-- [English v13](legacy/en/essay-en-v13.md) — latest English draft, not aligned with Italian v17.
+- [English v17-rc1.1](current/the-big-question-en-v17-rc1.1.md) — translation draft aligned with published Italian v17.
+- [English chapters](chapters/en/README.md) — introduction, chapters I–VI, and references.
+- [English v13](legacy/en/essay-en-v13.md) — historical English draft, preserved unchanged.
 - [Complete version index](legacy/README.md) — every preserved file, status, reading time, and change note.
 - [Epistemic notes](epistemic-notes.md) — the distinctions required before treating the essay as a scientific argument.
 
