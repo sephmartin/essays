@@ -1,7 +1,9 @@
 # The Big Question — capitoli
 
-**Versione:** v17-rc1.1  
-**Lingua:** Italiano  
+**Versione:** v17-rc1.1
+
+**Lingua:** Italiano
+
 **Stato:** capitoli della release candidate; nessuna versione stabile 1.0 designata.
 
 [Leggi il saggio completo](../current/the-big-question-it-v17-rc1.1.md) · [Torna a The Big Question](../README.md)
