@@ -4,6 +4,8 @@
 
 [← Introduzione](00-introduzione.md) · [Indice dei capitoli](README.md) · [Saggio completo](../current/the-big-question-it-v17-rc1.1.md#i-la-trappola-antropocentrica) · [II. Il codice sotto la pelle →](02-il-codice-sotto-la-pelle.md)
 
+[English](en/01-the-anthropocentric-trap.md)
+
 ---
 
 Anni di osservazione, guardare le persone, i loro pattern, le contraddizioni che si ripetono, mi avevano già convinto che dietro il comportamento umano ci fosse qualcosa di più profondo dell'istinto.

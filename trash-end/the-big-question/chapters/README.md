@@ -10,6 +10,8 @@
 
 Ogni pagina contiene il testo del capitolo, i riferimenti e i link per proseguire la lettura. I capitoli mantengono la formulazione del saggio: sono estratti leggibili e condivisibili, non nuovi essay autonomi. Le diramazioni Alignment, Synthesis e le altre opere restano percorsi di sviluppo distinti.
 
+[English — indice e testi dei capitoli](en/README.md).
+
 ## Indice
 
 1. [Introduzione](00-introduzione.md)

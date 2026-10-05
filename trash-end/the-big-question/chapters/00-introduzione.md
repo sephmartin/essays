@@ -4,6 +4,8 @@
 
 [Indice dei capitoli](README.md) · [Saggio completo](../current/the-big-question-it-v17-rc1.1.md) · [I. La trappola antropocentrica →](01-la-trappola-antropocentrica.md)
 
+[English](en/00-introduction.md)
+
 ---
 
 *Perché.L'unica domanda che conta, e probabilmente l'unica a cui non si risponderà mai.*

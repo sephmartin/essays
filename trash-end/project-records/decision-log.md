@@ -6,6 +6,14 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Accepted decisions
 
+### Provide English reading pages for The Big Question
+
+- **Status:** `EXPLICIT_DECISION`
+- **Decision:** Extend the complete-essay and individual-chapter reading structure to English for The Big Question only.
+- **Implementation:** [English v17-rc1.1](../the-big-question/current/the-big-question-en-v17-rc1.1.md) is a translation draft of the published Italian candidate, with an [English chapter index](../the-big-question/chapters/en/README.md), introduction, chapters I–VI, references, and reciprocal language links.
+- **Boundary:** English v13 remains historical and unchanged. This translation does not incorporate unpublished Italian author edits, designate a stable release, or claim a fresh scientific or outreach audit. Other works and website deployment are outside this request.
+- **Source:** Direct author instruction and scope clarification, 2026-10-05.
+
 ### Expose The Big Question chapters as individual reading pages
 
 - **Status:** `EXPLICIT_DECISION`

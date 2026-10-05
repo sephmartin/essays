@@ -4,6 +4,8 @@
 
 [← IV. Oltre l'entropia](04-oltre-l-entropia.md) · [Indice dei capitoli](README.md) · [Saggio completo](../current/the-big-question-it-v17-rc1.1.md#v-un-ponte-e-le-sue-crepe) · [VI. The Big Question →](06-the-big-question.md)
 
+[English](en/05-a-bridge-and-its-cracks.md)
+
 ---
 
 Ci sono persone che lavorano su pezzi veri di questo, nei loro campi e con i loro standard di evidenza: Michael Levin sull'intelligenza bioelettrica. Giulio Tononi<sup>[5]</sup> sulla coscienza come informazione integrata. Sara Imari Walker sulla fisica della vita. Nick Bostrom<sup>[7]</sup> sulla simulazione. David Deutsch e Chiara Marletto<sup>[8]</sup> sulla teoria del costruttore.
