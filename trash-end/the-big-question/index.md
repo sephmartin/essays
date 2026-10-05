@@ -10,6 +10,10 @@
 
 The essay is not one file pretending to be timeless. Its argument changes visibly across versions. Early drafts often move too quickly from information to consciousness or from mathematical analogy to cosmological possibility. Later versions increasingly expose those joints instead of hiding them.
 
+## Read individual chapters
+
+[Chapter index with full chapter texts](chapters/README.md) — introduction, chapters I–VI, and references from the published Italian v17-rc1.1.
+
 ## Recommended entry points
 
 - [Italian v17-rc1.1](current/the-big-question-it-v17-rc1.1.md) — current epistemically tightened candidate.

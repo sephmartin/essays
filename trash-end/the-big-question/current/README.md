@@ -14,3 +14,7 @@ Both candidates contain the approved human-first introduction and chapter index.
 The Markdown candidates in this directory are the authoritative working texts. Temporary scripts were used to assemble the first v16 and v17 candidates, but they were removed from the public repository once direct author edits made regeneration unsafe.
 
 Git history preserves how the candidates were assembled. A future public build system should return only when one canonical source can safely generate the complete essay, individual chapters, and site output without overwriting author changes.
+
+## Individual chapters
+
+The [chapter index](../chapters/README.md) provides separate reading pages extracted from the published Italian v17-rc1.1. The complete candidate remains the source of truth. Update the extracts alongside any future published source revision.

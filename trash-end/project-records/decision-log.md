@@ -6,6 +6,14 @@ The labels below preserve provenance rather than making every useful formulation
 
 ## Accepted decisions
 
+### Expose The Big Question chapters as individual reading pages
+
+- **Status:** `EXPLICIT_DECISION`
+- **Decision:** Keep the complete essay and also provide the text of each chapter in a separate file linked from the work index.
+- **Implementation:** [chapters/](../the-big-question/chapters/README.md) contains the introduction, chapters I–VI, and references extracted from the published Italian v17-rc1.1, with previous/next navigation and chapter references.
+- **Boundary:** These are extracts of the existing candidate, not rewritten essays or a stable 1.0 release. The complete candidate remains the editorial source. Alignment, Synthesis, and the other thematic branches remain separate works. Unpublished author edits and website deployment are outside this change.
+- **Source:** Direct author instruction, 2026-10-05.
+
 ### Separate consciousness into its own essay
 
 - **Status:** EXPLICIT_DECISION
